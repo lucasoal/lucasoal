@@ -2,6 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="_assets/linkedin/banner-linkedin.jpeg"> <img src="_assets/linkedin/banner-linkedin.jpeg">
 </picture>
 
+<!-- 
 <p>
   <strong style="font-size: 20px;">Lucas Leal</strong> <br>
   <i>Sr. Data Engineer / GCP • Azure • Airflow • Python • SQL • NoSQL • SSMS</i>
@@ -11,25 +12,26 @@
 - Former researcher in Cyber-Intelligence – [_CyberOne – Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
   - _Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
 
-</p>
+</p> 
+-->
 
 <div align="left">
   <a target="_blank" href="https://www.linkedin.com/in/lucas-leal-"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a target="_blank" href="https://lucaslealll.github.io/lucaslealll"><img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447"></a>
+  <!-- <a target="_blank" href="https://lucaslealll.github.io/lucaslealll"><img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447"></a> -->
 <!--   <a target="_blank" href="https://github.com/lucaslealll"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a> -->
 </div>
 
+<!-- 
 <hr>
-
 <h3>About</h3>
 <p>
 5 years in the technology market. Data Engineer with over 3 years of experience in projects for national and international companies. Expertise in: Project Infrastructure Planning; Flow Management and Control; Databases (SQL and NoSQL); Infrastructure (GCP, Azure); Linux Servers; Process Automation; Flow Controllers (Airflow, DataFactory).
 
 Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer Engineering from IPG in Portugal.
 </p>
+-->
 
 <hr>
-
 <h3>Technologies</h3>
 
 <div align="center" style="pointer-events: none;">
@@ -88,7 +90,6 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
 </div>
 
 <hr>
-
 <h3>GitHub Projects</h3>
 
 <img height="50" src="https://github.com/athena-mentorship.png"/> [Athena Mentorship](https://github.com/athena-mentorship) · **Educational Project** <br> Athena Mentorship is an educational initiative focused on mentoring and knowledge sharing within the tech community.  
@@ -97,7 +98,6 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
 **PyPI Project (Python Library)** <br> **quati** is a Python library designed to provide Dynamic data eng. functions to accelerate development and coding. Easily installable via PyPI.
 
 <hr>
-
 <h3>Bachelor's Projects</h3>
 
 <div align="center" style="display: flex; justify-content: center">
