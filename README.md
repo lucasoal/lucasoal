@@ -1,6 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="_assets/linkedin/banner-linkedin.jpeg"> <img src="_assets/linkedin/banner-linkedin.jpeg">
-</picture>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHjU2OWS6x0mg/profile-displaybackgroundimage-shrink_350_1400/B4DZgT.ajzHYAk-/0/1752681786354?e=1759968000&v=beta&t=iKkbD2kEUWRblv9FcwOTNdLADBle8dCVCx4zLd5hX08">
 
 <!-- 
 <p>
@@ -18,7 +16,7 @@
 <div align="left">
   <a target="_blank" href="https://www.linkedin.com/in/lucas-leal-"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <!-- <a target="_blank" href="https://lucaslealll.github.io/lucaslealll"><img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447"></a> -->
-<!--   <a target="_blank" href="https://github.com/lucaslealll"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a> -->
+  <!-- <a target="_blank" href="https://github.com/lucaslealll"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a> -->
 </div>
 
 <!-- 
