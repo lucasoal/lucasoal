@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/linkedin/banner-linkedin.jpeg"> <img src="assets/linkedin/banner-linkedin.jpeg">
+  <source media="(prefers-color-scheme: dark)" srcset="_assets/linkedin/banner-linkedin.jpeg"> <img src="_assets/linkedin/banner-linkedin.jpeg">
 </picture>
 
 <p>
@@ -80,11 +80,11 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
   
   <!-- Ferramentas Forense -->
   <img width="20"/>
-  <img title="Maltego"     height="20" height="30" src="images/icons/maltego.png">
-  <img title="CipherTrace" height="20" height="30" src="images/icons/ciphertrace.png">
-  <img title="TATUM"       height="15" height="30" src="images/icons/tatum.png">
-  <img title="Kali Linux"  height="30" height="30" src="images/icons/kali.svg">
-  <img title="TOR"         height="20" height="30" src="images/icons/tor.png">
+  <img title="Maltego"     height="20" height="30" src="_images/icons/maltego.png">
+  <img title="CipherTrace" height="20" height="30" src="_images/icons/ciphertrace.png">
+  <img title="TATUM"       height="15" height="30" src="_images/icons/tatum.png">
+  <img title="Kali Linux"  height="30" height="30" src="_images/icons/kali.svg">
+  <img title="TOR"         height="20" height="30" src="_images/icons/tor.png">
 </div>
 
 <hr>
@@ -102,9 +102,9 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
 
 <div align="center" style="display: flex; justify-content: center">
     <a target="_blank" href="https://github.com/lucaslealll-puc-cc" style="text-decoration: none; color: inherit;">
-        <img title="PUC" height="70" src="assets/logo-puc-color.svg">
+        <img title="PUC" height="70" src="_assets/logo-puc-color.svg">
     </a> 
     <a target="_blank" href="https://github.com/lucaslealll-ipg-ei" style="text-decoration: none; color: inherit;">
-        <img title="IPG" height="70" src="assets/logo-ipg-color.png">
+        <img title="IPG" height="70" src="_assets/logo-ipg-color.png">
     </a>
 </div>
