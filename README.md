@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQHjU2OWS6x0mg/profile-displaybackgroundimage-shrink_350_1400/B4DZgT.ajzHYAk-/0/1752681786354?e=1759968000&v=beta&t=iKkbD2kEUWRblv9FcwOTNdLADBle8dCVCx4zLd5hX08">
+<img src="_assets/linkedin/banner-linkedin.jpeg">
 
 <!-- 
 <p>
