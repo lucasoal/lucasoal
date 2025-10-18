@@ -15,8 +15,8 @@
 
 <div align="left">
   <a target="_blank" href="https://www.linkedin.com/in/lucas-leal-"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <!-- <a target="_blank" href="https://lucaslealll.github.io/lucaslealll"><img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447"></a> -->
-  <!-- <a target="_blank" href="https://github.com/lucaslealll"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a> -->
+  <!-- <a target="_blank" href="https://lucasoal.github.io/lucasoal"><img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447"></a> -->
+  <!-- <a target="_blank" href="https://github.com/lucasoal"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a> -->
 </div>
 
 <!-- 
@@ -99,10 +99,10 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
 <h3>Bachelor's Projects</h3>
 
 <div align="center" style="display: flex; justify-content: center">
-    <a target="_blank" href="https://github.com/lucaslealll-puc-cc" style="text-decoration: none; color: inherit;">
+    <a target="_blank" href="https://github.com/lucasoal-puc-cc" style="text-decoration: none; color: inherit;">
         <img title="PUC" height="70" src="_assets/logo-puc-color.svg">
     </a> 
-    <a target="_blank" href="https://github.com/lucaslealll-ipg-ei" style="text-decoration: none; color: inherit;">
+    <a target="_blank" href="https://github.com/lucasoal-ipg-ei" style="text-decoration: none; color: inherit;">
         <img title="IPG" height="70" src="_assets/logo-ipg-color.png">
     </a>
 </div>
