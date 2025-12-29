@@ -14,7 +14,7 @@
 -->
 
 <div align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/lucas-leal-"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/lucasoal"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <!-- <a target="_blank" href="https://lucasoal.github.io/lucasoal"><img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447"></a> -->
   <!-- <a target="_blank" href="https://github.com/lucasoal"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a> -->
 </div>
