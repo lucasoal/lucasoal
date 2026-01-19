@@ -88,21 +88,22 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
 </div>
 
 <hr>
+<h3>Bachelor's Projects | Portfolio</h3>
+
+<div align="center" style="display: flex; justify-content: center">
+    <a target="_blank" href="https://github.com/lucas-puc-pc-cc" style="text-decoration: none; color: inherit;">
+        <img title="PUC" height="150" src="https://avatars.githubusercontent.com/u/227693209?s=200&v=4">
+    </a> 
+    <a target="_blank" href="https://github.com/lucasoal-ipg-ei" style="text-decoration: none; color: inherit;">
+        <img title="IPG" height="150" src="https://avatars.githubusercontent.com/u/227808068?s=200&v=4">
+    </a>
+</div>
+
+
+<hr>
 <h3>GitHub Projects</h3>
 
 <img height="50" src="https://github.com/athena-mentorship.png"/> [Athena Mentorship](https://github.com/athena-mentorship) · **Educational Project** <br> Athena Mentorship is an educational initiative focused on mentoring and knowledge sharing within the tech community.  
 
 <img height="50" src="https://github.com/quati-dev.png"/> [Quati](https://github.com/quati-dev/quati) ·
 **PyPI Project (Python Library)** <br> **quati** is a Python library designed to provide Dynamic data eng. functions to accelerate development and coding. Easily installable via PyPI.
-
-<hr>
-<h3>Bachelor's Projects</h3>
-
-<div align="center" style="display: flex; justify-content: center">
-    <a target="_blank" href="https://github.com/lucas-puc-pc-cc" style="text-decoration: none; color: inherit;">
-        <img title="PUC" height="70" src="https://avatars.githubusercontent.com/u/227693209?s=200&v=4">
-    </a> 
-    <a target="_blank" href="https://github.com/lucasoal-ipg-ei" style="text-decoration: none; color: inherit;">
-        <img title="IPG" height="70" src="https://avatars.githubusercontent.com/u/227808068?s=200&v=4">
-    </a>
-</div>
