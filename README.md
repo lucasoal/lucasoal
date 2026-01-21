@@ -90,7 +90,10 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
 <hr>
 <h3>Bachelor's Projects | Portfolio</h3>
 
-<div align="center" style="display: flex; justify-content: center">
+<div align="center" style="display: flex; justify-content: center"> 
+    <a target="_blank" href="https://puc-cc-tcc.github.io/view" style="text-decoration: none; color: inherit;">
+        <img title="IPG" height="150" src="https://avatars.githubusercontent.com/u/233206468?s=200&v=4">
+    </a>
     <a target="_blank" href="https://github.com/lucas-puc-pc-cc" style="text-decoration: none; color: inherit;">
         <img title="PUC" height="150" src="https://avatars.githubusercontent.com/u/227693209?s=200&v=4">
     </a> 
