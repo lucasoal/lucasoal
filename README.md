@@ -106,7 +106,10 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
 <hr>
 <h3>GitHub Projects</h3>
 
-<img height="50" src="https://github.com/athena-mentorship.png"/> [Athena Mentorship](https://github.com/athena-mentorship) · **Educational Project** <br> Athena Mentorship is an educational initiative focused on mentoring and knowledge sharing within the tech community.  
+<img height="50" src="https://github.com/athena-mentorship.png"/> [Athena Mentorship](https://github.com/athena-mentorship) · **Educational Project** <br> Athena Mentorship is an educational initiative focused on mentoring and knowledge sharing within the tech community.
 
-<img height="50" src="https://github.com/quati-dev.png"/> [Quati](https://github.com/quati-dev/quati) ·
+<img height="50" src="https://github.com/quati-dev.png"/> [Quati](https://github.com/quati-dev/quati)·
 **PyPI Project (Python Library)** <br> **quati** is a Python library designed to provide Dynamic data eng. functions to accelerate development and coding. Easily installable via PyPI.
+
+<img height="50" src="https://github.com/lucasoal/igmapper/blob/main/assets/igmapper.png"/> [Igmapper](https://github.com/lucasoal/igmapper) ·
+**Igmapper (Python Library)** <br> Unofficial Instagram API to request available data.
