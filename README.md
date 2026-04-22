@@ -88,7 +88,7 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
 </div>
 
 <hr>
-<h3>Bachelor's Projects | Portfolio</h3>
+<h3>Take a L👀K...</h3>
 
 <div align="center" style="display: flex; justify-content: center"> 
     <a target="_blank" href="https://puc-cc-tcc.github.io/view" style="text-decoration: none; color: inherit;">
