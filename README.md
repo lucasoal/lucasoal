@@ -80,11 +80,11 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
   
   <!-- Ferramentas Forense -->
   <img width="20"/>
-  <img title="Maltego"     height="20" height="30" src="_images/icons/maltego.png">
-  <img title="CipherTrace" height="20" height="30" src="_images/icons/ciphertrace.png">
-  <img title="TATUM"       height="15" height="30" src="_images/icons/tatum.png">
-  <img title="Kali Linux"  height="30" height="30" src="_images/icons/kali.svg">
-  <img title="TOR"         height="20" height="30" src="_images/icons/tor.png">
+  <img title="Maltego"     height="20" height="30" src="portfolio/assets/icons/maltego.png">
+  <img title="CipherTrace" height="20" height="30" src="portfolio/assets/icons/ciphertrace.png">
+  <img title="TATUM"       height="15" height="30" src="portfolio/assets/icons/tatum.png">
+  <img title="Kali Linux"  height="30" height="30" src="portfolio/assets/icons/kali.svg">
+  <img title="TOR"         height="20" height="30" src="portfolio/assets/icons/tor.png">
 </div>
 
 <hr>
