@@ -34,57 +34,57 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
 
 <div align="center" style="pointer-events: none;">
   <!-- Sistemas Operacionais -->
-  <img title="Linux"    height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img title="Windows"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-  <img title="macOS"    height="30" src="https://cdn.simpleicons.org/apple/B0BEC5"/>
+  <img title="Linux"    height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img title="Windows"  height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  <img title="macOS"    height="25" src="https://cdn.simpleicons.org/apple/B0BEC5"/>
 
   <!-- Nuvem -->
   <img width="20"/>
-  <img title="GCP"    height="30" src="https://skillicons.dev/icons?i=gcp"/>
-  <img title="Azure"  height="30" src="https://skillicons.dev/icons?i=azure"/>
-  <img title="AWS"    height="30" src="https://skillicons.dev/icons?i=aws"/>
+  <img title="GCP"    height="25" src="https://skillicons.dev/icons?i=gcp"/>
+  <img title="Azure"  height="25" src="https://skillicons.dev/icons?i=azure"/>
+  <img title="AWS"    height="25" src="https://skillicons.dev/icons?i=aws"/>
 
   <!-- Bancos de Dados -->
   <img width="20"/>
-  <img title="SQL Server"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-  <img title="Oracle SGBD" height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg"/>
-  <img title="MongoDB"     height="30" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img title="SQL Server"  height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  <img title="Oracle SGBD" height="25" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg"/>
+  <img title="MongoDB"     height="25" src="https://skillicons.dev/icons?i=mongodb"/>
 
   <!-- Linguagens de Programação -->
   <img width="20"/>
-  <img title="Python" height="30" src="https://skillicons.dev/icons?i=py"/>
-  <img title="C"      height="30" src="https://skillicons.dev/icons?i=c"/>
-  <img title="C#"     height="30" src="https://skillicons.dev/icons?i=cs"/>
-  <img title="Java"   height="30" src="https://skillicons.dev/icons?i=java"/>
+  <img title="Python" height="25" src="https://skillicons.dev/icons?i=py"/>
+  <img title="C"      height="25" src="https://skillicons.dev/icons?i=c"/>
+  <img title="C#"     height="25" src="https://skillicons.dev/icons?i=cs"/>
+  <img title="Java"   height="25" src="https://skillicons.dev/icons?i=java"/>
 
   <!-- Frameworks e Bibliotecas -->
   <img width="20"/>
-  <img title="React"      height="30" src="https://skillicons.dev/icons?i=react"/>
-  <img title="Bootstrap"  height="30" src="https://skillicons.dev/icons?i=bootstrap"/>
-  <img title=".NET"       height="30" src="https://skillicons.dev/icons?i=dotnet"/>
-  <img title="Salesforce" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
+  <img title="React"      height="25" src="https://skillicons.dev/icons?i=react"/>
+  <img title="Bootstrap"  height="25" src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img title=".NET"       height="25" src="https://skillicons.dev/icons?i=dotnet"/>
+  <img title="Salesforce" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
   
   <!-- Desenvolvimento Web -->
   <img width="20"/>
-  <img title="HTML"       height="30" src="https://skillicons.dev/icons?i=html"/>
-  <img title="CSS"        height="30" src="https://skillicons.dev/icons?i=css"/>
-  <img title="JavaScript" height="30" src="https://skillicons.dev/icons?i=js"/>
+  <img title="HTML"       height="25" src="https://skillicons.dev/icons?i=html"/>
+  <img title="CSS"        height="25" src="https://skillicons.dev/icons?i=css"/>
+  <img title="JavaScript" height="25" src="https://skillicons.dev/icons?i=js"/>
 
   <!-- Ferramentas de Desenvolvimento -->
   <img width="20"/>
-  <img title="VS Code" height="30" src="https://skillicons.dev/icons?i=vscode"/>
-  <img title="Postman" height="30" src="https://skillicons.dev/icons?i=postman"/>
+  <img title="VS Code" height="25" src="https://skillicons.dev/icons?i=vscode"/>
+  <img title="Postman" height="25" src="https://skillicons.dev/icons?i=postman"/>
 
   <br>
   <br>
   
   <!-- Ferramentas Forense -->
   <img width="20"/>
-  <img title="Maltego"     height="20" height="30" src="assets/icons/maltego.png">
-  <img title="CipherTrace" height="20" height="30" src="assets/icons/ciphertrace.png">
-  <img title="TATUM"       height="15" height="30" src="assets/icons/tatum.png">
-  <img title="Kali Linux"  height="30" height="30" src="assets/icons/kali.svg">
-  <img title="TOR"         height="20" height="30" src="assets/icons/tor.png">
+  <img title="Maltego"     height="20" height="25" src="assets/icons/maltego.png">
+  <img title="CipherTrace" height="20" height="25" src="assets/icons/ciphertrace.png">
+  <img title="TATUM"       height="15" height="25" src="assets/icons/tatum.png">
+  <img title="Kali Linux"  height="25" height="25" src="assets/icons/kali.svg">
+  <img title="TOR"         height="20" height="25" src="assets/icons/tor.png">
 </div>
 
 <hr>
