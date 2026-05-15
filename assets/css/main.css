@@ -12,29 +12,41 @@
 --------------------------------------------------------------*/
 /* Fonts */
 :root {
-  --default-font: "Helvetica", "Roboto",  system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --heading-font: "Helvetica", "Questrial",  sans-serif;
-  --nav-font: "Helvetica", "Noto Sans",  sans-serif;
+  --default-font: "Helvetica", "Roboto", system-ui, -apple-system, "Segoe UI", Roboto, Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --heading-font: "Helvetica", "Questrial", sans-serif;
+  --nav-font: "Helvetica", "Noto Sans", sans-serif;
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
-:root { 
-  --background-color: #F4F2EE; /* Background color for the entire website, including individual sections */
-  --default-color: #1f1f1d; /* Default color used for the majority of the text content across the entire website */
-  --heading-color: #1f1f1d; /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #0A66C2; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
-  --surface-color: #fcfeff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
-  --contrast-color: #F4F2EE; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+:root {
+  --background-color: #F4F2EE;
+  /* Background color for the entire website, including individual sections */
+  --default-color: #1f1f1d;
+  /* Default color used for the majority of the text content across the entire website */
+  --heading-color: #1f1f1d;
+  /* Color for headings, subheadings and title throughout the website */
+  --accent-color: #0A66C2;
+  /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --surface-color: #fcfeff;
+  /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
+  --contrast-color: #F4F2EE;
+  /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 }
 
 /* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
 :root {
-  --nav-color: #666666;  /* The default color of the main navmenu links */
-  --nav-hover-color: #000000; /* Applied to main navmenu links when they are hovered over or active */
-  --nav-mobile-background-color: #1B1F23; /* Used as the background color for mobile navigation menu */
-  --nav-dropdown-background-color: #1B1F23; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
-  --nav-dropdown-color: #F4F2EE; /* Used for navigation links of the dropdown items in the navigation menu. */
-  --nav-dropdown-hover-color: #0A66C2; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
+  --nav-color: #666666;
+  /* The default color of the main navmenu links */
+  --nav-hover-color: #000000;
+  /* Applied to main navmenu links when they are hovered over or active */
+  --nav-mobile-background-color: #1B1F23;
+  /* Used as the background color for mobile navigation menu */
+  --nav-dropdown-background-color: #1B1F23;
+  /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
+  --nav-dropdown-color: #F4F2EE;
+  /* Used for navigation links of the dropdown items in the navigation menu. */
+  --nav-dropdown-hover-color: #0A66C2;
+  /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 }
 
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */
@@ -1956,6 +1968,114 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
+/* Slider */
+.slick-slide {
+  margin: 0px 20px;
+}
+
+.slick-slide img {
+  width: 60%;
+}
+
+.slick-slider {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+  -khtml-user-select: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.slick-list:focus {
+  outline: none;
+}
+
+.slick-list.dragging {
+  cursor: pointer;
+  cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list {
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+
+.slick-track {
+  position: relative;
+  top: 0;
+  left: 0;
+  display: block;
+}
+
+.slick-track:before,
+.slick-track:after {
+  display: table;
+  content: '';
+}
+
+.slick-track:after {
+  clear: both;
+}
+
+.slick-loading .slick-track {
+  visibility: hidden;
+}
+
+.slick-slide {
+  display: none;
+  float: left;
+  height: 100%;
+  min-height: 1px;
+}
+
+[dir='rtl'] .slick-slide {
+  float: right;
+}
+
+.slick-slide img {
+  display: block;
+}
+
+.slick-slide.slick-loading img {
+  display: none;
+}
+
+.slick-slide.dragging img {
+  pointer-events: none;
+}
+
+.slick-initialized .slick-slide {
+  display: block;
+}
+
+.slick-loading .slick-slide {
+  visibility: hidden;
+}
+
+.slick-vertical .slick-slide {
+  display: block;
+  height: auto;
+  border: 1px solid transparent;
+}
+
+.slick-arrow.slick-hidden {
+  display: none;
 }
