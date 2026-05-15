@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <br>
   <a target="_blank" href="https://linkedin.com/in/lucasoal"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a target="_blank" href="https://lucasoal.github.io/lucasoal"><img src="https://img.shields.io/badge/WebSite-0B65C3?style=for-the-badge&logo=icloud&logoColor=white"></a>
