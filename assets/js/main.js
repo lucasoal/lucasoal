@@ -224,9 +224,9 @@
 $(document).ready(function () {
   $('.tech-logos').slick({
     slidesToShow: 6,
-    slidesToScroll: 1,
+    slidesToScroll: 6,
     autoplay: true,
-    autoplaySpeed: 1500,
+    autoplaySpeed: 6000,
     arrows: false,
     dots: false,
     pauseOnHover: true,
