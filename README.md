@@ -1,116 +1,117 @@
-<!-- <img src="https://media.licdn.com/dms/image/v2/D4D16AQG7pBoHJVeKUw/profile-displaybackgroundimage-shrink_350_1400/B4DZtbFPtHJUAY-/0/1766759661186?e=1768435200&v=beta&t=Alo6D25cc3TINUuGO2vEuZbMZU5SqWJzL7VSMEIHpvQ"> -->
-
-<!-- 
-<p>
-  <strong style="font-size: 20px;">Lucas Leal</strong> <br>
-  <i>Sr. Data Engineer / GCP • Azure • Airflow • Python • SQL • NoSQL • SSMS</i>
-
-- Computer Science – [PUC Minas](https://computacao.pucpcaldas.br/) · 🇧🇷 Brazil
-- Computer Science Engineering – [IPG Portugal](https://politecnicoguarda.pt/) · 🇵🇹 Portugal
-- Former researcher in Cyber-Intelligence – [_CyberOne – Laboratory of Cybernetic Security and Computer Forensics_](https://sites.google.com/view/cyberonelab)
-  - _Mechanisms for Locating Digital Evidence of Cybercrimes on the Deep Web and Dark Web_
-
-</p> 
--->
-
-<div align="left">
+<div align="center">
+  <br>
   <a target="_blank" href="https://linkedin.com/in/lucasoal"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <!-- <a target="_blank" href="https://lucasoal.github.io/lucasoal"><img src="https://img.shields.io/badge/WebSite-black?style=for-the-badge&logo=icloud&logoColor=black&color=D63447"></a> -->
-  <!-- <a target="_blank" href="https://github.com/lucasoal"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a> -->
+  <!-- <a target="_blank" href="https://lucasoal.github.io/lucasoal"><img src="https://img.shields.io/badge/WebSite-0B65C3?style=for-the-badge&logo=icloud&logoColor=white"></a> -->
+  <!-- <a target="_blank" href="https://github.com/lucasoal"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"></a> -->
+  <!-- <a target="_blank" href="https://youtube.com/@lucas-oal"><img src="https://img.shields.io/badge/Youtube-FF0033?style=for-the-badge&logo=youtube&logoColor=white"></a> -->
+  <!-- <a target="_blank" href="https://lucasoal.medium.com"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"></a> -->
 </div>
-
-<!-- 
-<hr>
-<h3>About</h3>
-<p>
-5 years in the technology market. Data Engineer with over 3 years of experience in projects for national and international companies. Expertise in: Project Infrastructure Planning; Flow Management and Control; Databases (SQL and NoSQL); Infrastructure (GCP, Azure); Linux Servers; Process Automation; Flow Controllers (Airflow, DataFactory).
-
-Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer Engineering from IPG in Portugal.
-</p>
--->
 
 <hr>
 <h3>Technologies</h3>
 
 <div align="center" style="pointer-events: none;">
-  <!-- Sistemas Operacionais -->
-  <img title="Linux"    height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img title="Windows"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-  <img title="macOS"    height="30" src="https://cdn.simpleicons.org/apple/B0BEC5"/>
-
   <!-- Nuvem -->
-  <img width="20"/>
-  <img title="GCP"    height="30" src="https://skillicons.dev/icons?i=gcp"/>
-  <img title="Azure"  height="30" src="https://skillicons.dev/icons?i=azure"/>
-  <img title="AWS"    height="30" src="https://skillicons.dev/icons?i=aws"/>
-
+  <img title="AWS"        height="30" src="https://skillicons.dev/icons?i=aws"/>
+  <img title="Azure"      height="30" src="https://skillicons.dev/icons?i=azure"/>
+  <img title="GCP"        height="30" src="https://skillicons.dev/icons?i=gcp"/>
   <!-- Bancos de Dados -->
   <img width="20"/>
-  <img title="SQL Server"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-  <img title="Oracle SGBD" height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg"/>
-  <img title="MongoDB"     height="30" src="https://skillicons.dev/icons?i=mongodb"/>
-
+  <img title="MongoDB"    height="30" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img title="OracleDB"   height="30" src="https://play-lh.googleusercontent.com/pya_5b1aQUBF2-S4u22CMBujCpY-Uby2dKs_EzoX-uY2Qg2mzf19pU25cKabfsY81EN3K1UmWOV4sSqJD6SdKAk"/>
+  <img title="PostgreSQL" height="30" src="https://skillicons.dev/icons?i=postgresql"/>
+  <img title="SQL Server" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
   <!-- Linguagens de Programação -->
   <img width="20"/>
   <img title="Python" height="30" src="https://skillicons.dev/icons?i=py"/>
+  <img title="Databricks" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"/>
+  <br>
+  <br>
+  <!-- Sistemas Operacionais -->
+  <img width="20"/>
+  <img title="Linux"    height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img title="Windows"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  <img title="macOS"    height="30" src="https://cdn.simpleicons.org/apple/B0BEC5"/>
+  <!-- Linguagens de Programação -->
+  <!-- <img width="20"/> -->
   <img title="C"      height="30" src="https://skillicons.dev/icons?i=c"/>
   <img title="C#"     height="30" src="https://skillicons.dev/icons?i=cs"/>
   <img title="Java"   height="30" src="https://skillicons.dev/icons?i=java"/>
-
   <!-- Frameworks e Bibliotecas -->
-  <img width="20"/>
-  <img title="React"      height="30" src="https://skillicons.dev/icons?i=react"/>
-  <img title="Bootstrap"  height="30" src="https://skillicons.dev/icons?i=bootstrap"/>
+  <!-- <img width="20"/> -->
   <img title=".NET"       height="30" src="https://skillicons.dev/icons?i=dotnet"/>
+  <img title="Bootstrap"  height="30" src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img title="React"      height="30" src="https://skillicons.dev/icons?i=react"/>
   <img title="Salesforce" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
-  
   <!-- Desenvolvimento Web -->
-  <img width="20"/>
-  <img title="HTML"       height="30" src="https://skillicons.dev/icons?i=html"/>
+  <!-- <img width="20"/> -->
   <img title="CSS"        height="30" src="https://skillicons.dev/icons?i=css"/>
+  <img title="HTML"       height="30" src="https://skillicons.dev/icons?i=html"/>
   <img title="JavaScript" height="30" src="https://skillicons.dev/icons?i=js"/>
-
   <!-- Ferramentas de Desenvolvimento -->
-  <img width="20"/>
-  <img title="VS Code" height="30" src="https://skillicons.dev/icons?i=vscode"/>
+  <!-- <img width="20"/> -->
   <img title="Postman" height="30" src="https://skillicons.dev/icons?i=postman"/>
-
+  <img title="VS Code" height="30" src="https://skillicons.dev/icons?i=vscode"/>
   <br>
-  <br>
-  
   <!-- Ferramentas Forense -->
   <img width="20"/>
-  <img title="Maltego"     height="20" height="30" src="assets/icons/maltego.png">
   <img title="CipherTrace" height="20" height="30" src="assets/icons/ciphertrace.png">
+  <img title="Kali Linux"  height="20" height="30" src="assets/icons/kali.svg">
+  <img title="Maltego"     height="20" height="30" src="assets/icons/maltego.png">
   <img title="TATUM"       height="15" height="30" src="assets/icons/tatum.png">
-  <img title="Kali Linux"  height="30" height="30" src="assets/icons/kali.svg">
   <img title="TOR"         height="20" height="30" src="assets/icons/tor.png">
 </div>
 
 <hr>
 <h3>Take a L👀K...</h3>
 
-<div align="center" style="display: flex; justify-content: center"> 
-    <a target="_blank" href="https://puc-cc-tcc.github.io/view" style="text-decoration: none; color: inherit;">
-        <img title="IPG" height="150" src="https://avatars.githubusercontent.com/u/233206468?s=200&v=4">
-    </a>
-    <a target="_blank" href="https://github.com/lucas-puc-pc-cc" style="text-decoration: none; color: inherit;">
-        <img title="PUC" height="150" src="https://avatars.githubusercontent.com/u/227693209?s=200&v=4">
-    </a> 
-    <a target="_blank" href="https://github.com/lucas-ipg-ei" style="text-decoration: none; color: inherit;">
-        <img title="IPG" height="150" src="https://avatars.githubusercontent.com/u/227808068?s=200&v=4">
-    </a>
-</div>
+<img align="left" height="100px" src="https://avatars.githubusercontent.com/u/233206468?s=200&v=4"/>
 
+**Bourdieu & Electoral Campaigns: A Data-Based Evaluation** \
+**PUC Minas** • Thesis \
+🔧 `Python`, `SQL`, `PostgreSQL`, `PowerBI` \
+📁 [puc-cc-tcc](https://github.com/puc-cc-tcc)
+<br/>
+
+<img align="left" height="100px" src="https://avatars.githubusercontent.com/u/227693209?s=200&v=4"/>
+
+**Academic Projects** \
+**PUC Minas** • Projects developed during the bachelor's degree in Computer Science - PUC Minas \
+🔧 `Blender`, `C`, `C++`, `CoppeliaSim`, `Java`, `Lisp`, `Lua`, `Packet Tracer`, `Pascal`, `Prolog`, `Python`, `Shell`, `SQL`... \
+📁 [lucas-puc-pc-cc](https://github.com/lucas-puc-pc-cc)
+<br/>
+
+<img align="left" height="100px" src="https://avatars.githubusercontent.com/u/227808068?s=200&v=4"/>
+
+**Academic Projects** \
+**IPG Portugal** • Projects developed during the bachelor's degree in Computer Science Engineering - IPG \
+🔧 `Bootstrap`, `C`, `C#`, `CSS`, `HTML`, `Haskell`, `Ino`, `JavaScript`, `PL/SQL`, `Salesforce`, `Unity`... \
+📁 [lucas-ipg-ei](https://github.com/lucas-ipg-ei)
+<br/>
 
 <hr>
 <h3>Open Source Projects</h3>
 
-<img width="5%" src="https://github.com/athena-mentorship.png"/> [Athena Mentorship](https://github.com/athena-mentorship) ·
-**Educational Project** <br> Athena Mentorship is an educational initiative focused on mentoring and knowledge sharing within the tech community.
+<img align="left" height="100px" src="https://github.com/athena-mentorship.png"/>
 
-<img width="15%" src="https://github.com/quati-dev/quati/blob/main/assets/quati.png"/> [Quati](https://github.com/quati-dev/quati) ·
-**Python Library** <br> **quati** is a Python library designed to provide Dynamic data eng. functions to accelerate development and coding. Easily installable via PyPI.
+**Educational Project** \
+**Athena Mentorship** • Mentoring and knowledge sharing within the tech community. \
+🔧 `React`, `React Native`, `Ruby` \
+📁 [athena-mentorship](https://github.com/athena-mentorship)
+<br/>
 
-<img width="15%" src="https://github.com/lucasoal/igmapper/blob/main/assets/igmapper.png"/> [Igmapper](https://github.com/lucasoal/igmapper) ·
-**Python Library** <br> Unofficial Instagram API to request available data.
+<img align="left" height="100px" src="https://github.com/quati-dev/quati/blob/main/assets/quati.png"/>
+
+**Python Library** \
+**Quati** • Python library providing dynamic data engineering functions to accelerate development. \
+🔧 `Python`, `PyPI` \
+📁 [quati](https://github.com/quati-dev/quati)
+<br/>
+
+<img align="left" height="100px" src="https://github.com/lucasoal/igmapper/blob/main/assets/igmapper.png"/>
+
+**Python Library** \
+**Igmapper** • Python Library to retrieving publicly available Instagram data. \
+🔧 `Python`, `Instagram` \
+📁 [igmapper](https://github.com/lucasoal/igmapper)
+<br/>
