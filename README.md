@@ -1,13 +1,13 @@
-<div align="center">
+<!-- <div align="center">
   <br>
   <a target="_blank" href="https://linkedin.com/in/lucasoal"><img src="https://img.shields.io/badge/LinkedIn-0B65C3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <!-- <a target="_blank" href="https://lucasoal.github.io/lucasoal"><img src="https://img.shields.io/badge/WebSite-0B65C3?style=for-the-badge&logo=icloud&logoColor=white"></a> -->
-  <!-- <a target="_blank" href="https://github.com/lucasoal"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"></a> -->
-  <!-- <a target="_blank" href="https://youtube.com/@lucas-oal"><img src="https://img.shields.io/badge/Youtube-FF0033?style=for-the-badge&logo=youtube&logoColor=white"></a> -->
-  <!-- <a target="_blank" href="https://lucasoal.medium.com"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"></a> -->
-</div>
+  <a target="_blank" href="https://lucasoal.github.io/lucasoal"><img src="https://img.shields.io/badge/WebSite-0B65C3?style=for-the-badge&logo=icloud&logoColor=white"></a>
+  <a target="_blank" href="https://github.com/lucasoal"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"></a>
+  <a target="_blank" href="https://youtube.com/@lucas-oal"><img src="https://img.shields.io/badge/Youtube-FF0033?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a target="_blank" href="https://lucasoal.medium.com"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>
+</div> -->
 
-<hr>
+<!-- <hr> -->
 <h3>Technologies</h3>
 
 <div align="center" style="pointer-events: none;">
@@ -25,7 +25,7 @@
   <img width="20"/>
   <img title="Python" height="30" src="https://skillicons.dev/icons?i=py"/>
   <img title="Databricks" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"/>
-  <br>
+  <!-- <br> -->
   <br>
   <!-- Sistemas Operacionais -->
   <img width="20"/>
