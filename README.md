@@ -100,7 +100,7 @@
 📁 [athena-mentorship](https://github.com/athena-mentorship)
 <br/>
 
-<img align="left" height="25px" src="https://github.com/quati-dev/quati/blob/main/assets/quati.png"/>
+<img align="left" height="100px" src="https://github.com/quati-dev/quati/blob/main/assets/quati.png"/>
 
 **Python Library** \
 **Quati** • Python library providing dynamic data engineering functions to accelerate development. \
@@ -108,7 +108,7 @@
 📁 [quati](https://github.com/quati-dev/quati)
 <br/>
 
-<img align="left" height="25px" src="https://github.com/lucasoal/igmapper/blob/main/assets/igmapper.png"/>
+<img align="left" height="100px" src="https://github.com/lucasoal/igmapper/blob/main/assets/igmapper.png"/>
 
 **Python Library** \
 **Igmapper** • Python Library to retrieving publicly available Instagram data. \
