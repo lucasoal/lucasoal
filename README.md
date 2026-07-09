@@ -104,7 +104,7 @@ Bachelor's degree in Computer Science from PUC Minas. Double Degree in Computer 
 
 
 <hr>
-<h3>GitHub Projects</h3>
+<h3>Open Source Projects</h3>
 
 <img height="50" src="https://github.com/athena-mentorship.png"/> [Athena Mentorship](https://github.com/athena-mentorship) · **Educational Project** <br> Athena Mentorship is an educational initiative focused on mentoring and knowledge sharing within the tech community.
 
