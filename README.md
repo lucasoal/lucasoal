@@ -70,7 +70,7 @@
 **E.Analytics - Electoral Campaign Intelligence Platform** \
 🛠 `Python`, `Airflow`, `SQL`, `PostgreSQL`, `PowerBI`, `DAX`, `ETL/ELT`, `CI/CD` \
 🖿 [E.Analytics](https://github.com/puc-cc-tcc) \
-🛈 End-to-end analytics product combining Bourdieu's Social Field Theory with data engineering. Ingests political content, models symbolic capital flows,  delivers real-time effectiveness metrics via interactive dashboards.
+🛈 End-to-end analytics product combining Bourdieu's Social Field Theory with data engineering. ingests political content, identifies communication styles using AI models, maps symbolic capital, calculates audience adoption, and provides real-time effectiveness metrics via interactive dashboards.
 <br/>
 
 <hr>
