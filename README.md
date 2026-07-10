@@ -12,9 +12,9 @@
 
 <div align="center" style="pointer-events: none;">
   <!-- Nuvem -->
-  <img title="AWS"        height="35" src="assets/icons/aws.svg"/>
-  <img title="Azure"      height="35" src="assets/icons/azure.svg"/>
-  <img title="GCP"        height="35" src="assets/icons/gcp.svg"/>
+  <img title="AWS"   height="35" src="assets/icons/aws.svg"/>
+  <img title="Azure" height="35" src="assets/icons/azure.svg"/>
+  <img title="GCP"   height="35" src="assets/icons/gcp.svg"/>
   <!-- Bancos de Dados -->
   <img width="20"/>
   <img title="MongoDB"    height="35" src="assets/icons/mongodb.svg"/>
@@ -29,14 +29,14 @@
   <br>
   <!-- Sistemas Operacionais -->
   <img width="20"/>
-  <img title="Linux"    height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img title="Windows"  height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-  <img title="macOS"    height="35" src="https://cdn.simpleicons.org/apple/B0BEC5"/>
+  <img title="Linux"   height="35" src="assets/icons/linux.svg"/>
+  <img title="Windows" height="35" src="assets/icons/windows.svg"/>
+  <img title="macOS"   height="35" src="assets/icons/apple.svg"/>
   <!-- Linguagens de Programação -->
   <!-- <img width="20"/> -->
-  <img title="C"      height="35" src="https://skillicons.dev/icons?i=c"/>
-  <img title="C#"     height="35" src="https://skillicons.dev/icons?i=cs"/>
-  <img title="Java"   height="35" src="assets/icons/java.svg"/>
+  <img title="C"    height="35" src="https://skillicons.dev/icons?i=c"/>
+  <img title="C#"   height="35" src="https://skillicons.dev/icons?i=cs"/>
+  <img title="Java" height="35" src="assets/icons/java.svg"/>
   <!-- Frameworks e Bibliotecas -->
   <!-- <img width="20"/> -->
   <img title=".NET"       height="35" src="assets/icons/dotnet.svg"/>
