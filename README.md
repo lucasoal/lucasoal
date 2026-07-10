@@ -12,19 +12,19 @@
 
 <div align="center" style="pointer-events: none;">
   <!-- Nuvem -->
-  <img title="AWS"        height="30" src="https://skillicons.dev/icons?i=aws"/>
-  <img title="Azure"      height="30" src="https://skillicons.dev/icons?i=azure"/>
-  <img title="GCP"        height="30" src="https://skillicons.dev/icons?i=gcp"/>
+  <img title="AWS"        height="30" src="assets/icons/aws.svg"/>
+  <img title="Azure"      height="30" src="assets/icons/azure.svg"/>
+  <img title="GCP"        height="30" src="assets/icons/gcp.svg"/>
   <!-- Bancos de Dados -->
   <img width="20"/>
-  <img title="MongoDB"    height="30" src="https://skillicons.dev/icons?i=mongodb"/>
-  <img title="OracleDB"   height="30" src="https://play-lh.googleusercontent.com/pya_5b1aQUBF2-S4u22CMBujCpY-Uby2dKs_EzoX-uY2Qg2mzf19pU25cKabfsY81EN3K1UmWOV4sSqJD6SdKAk"/>
-  <img title="PostgreSQL" height="30" src="https://skillicons.dev/icons?i=postgresql"/>
-  <img title="SQL Server" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  <img title="MongoDB"    height="30" src="assets/icons/mongodb.svg"/>
+  <img title="OracleDB"   height="30" src="assets/icons/oracle.svg"/>
+  <img title="PostgreSQL" height="30" src="assets/icons/postgresql.svg"/>
+  <img title="SQL Server" height="30" src="assets/icons/sqlserver.svg"/>
   <!-- Linguagens de Programação -->
   <img width="20"/>
-  <img title="Python" height="30" src="https://skillicons.dev/icons?i=py"/>
-  <img title="Databricks" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"/>
+  <img title="Python" height="30" src="assets/icons/python.svg"/>
+  <img title="Databricks" height="30" src="assets/icons/databricks.svg"/>
   <!-- <br> -->
   <br>
   <!-- Sistemas Operacionais -->
@@ -36,13 +36,13 @@
   <!-- <img width="20"/> -->
   <img title="C"      height="30" src="https://skillicons.dev/icons?i=c"/>
   <img title="C#"     height="30" src="https://skillicons.dev/icons?i=cs"/>
-  <img title="Java"   height="30" src="https://skillicons.dev/icons?i=java"/>
+  <img title="Java"   height="30" src="assets/icons/java.svg"/>
   <!-- Frameworks e Bibliotecas -->
   <!-- <img width="20"/> -->
-  <img title=".NET"       height="30" src="https://skillicons.dev/icons?i=dotnet"/>
+  <img title=".NET"       height="30" src="assets/icons/dotnet.svg"/>
   <img title="Bootstrap"  height="30" src="https://skillicons.dev/icons?i=bootstrap"/>
   <img title="React"      height="30" src="https://skillicons.dev/icons?i=react"/>
-  <img title="Salesforce" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg"/>
+  <img title="Salesforce" height="30" src="assets/icons/salesforce.svg"/>
   <!-- Desenvolvimento Web -->
   <!-- <img width="20"/> -->
   <img title="CSS"        height="30" src="https://skillicons.dev/icons?i=css"/>
