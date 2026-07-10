@@ -108,7 +108,7 @@
 <img align="left" height="75px" src="https://github.com/lucasoal/igmapper/blob/main/assets/igmapper.png"/>
 
 **Igmapper** \
-**Python Library** • Get public metrics (likes, comments, shares, profiles, posts, reels...) from Instagram. \
+**Python Library** • Get metrics (likes, comms, shares, profiles, posts, reels...) from Instagram. \
 🛠 `Python`, `Instagram` \
 🖿 [igmapper](https://github.com/lucasoal/igmapper)
 <br/>
@@ -116,7 +116,7 @@
 <img align="left" height="75px" src="https://github.com/quati-dev/quati/blob/main/assets/quati.png"/>
 
 **Quati** \
-**Python Library** • Providing dynamic data engineering functions to accelerate development. \
+**Python Library** • Data engineering functions to accelerate development. \
 🛠 `Python`, `PyPI` \
 🖿 [quati](https://github.com/quati-dev/quati)
 <br/>
