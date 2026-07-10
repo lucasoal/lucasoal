@@ -12,54 +12,54 @@
 
 <div align="center" style="pointer-events: none;">
   <!-- Nuvem -->
-  <img title="AWS"        height="30" src="assets/icons/aws.svg"/>
-  <img title="Azure"      height="30" src="assets/icons/azure.svg"/>
-  <img title="GCP"        height="30" src="assets/icons/gcp.svg"/>
+  <img title="AWS"        height="35" src="assets/icons/aws.svg"/>
+  <img title="Azure"      height="35" src="assets/icons/azure.svg"/>
+  <img title="GCP"        height="35" src="assets/icons/gcp.svg"/>
   <!-- Bancos de Dados -->
   <img width="20"/>
-  <img title="MongoDB"    height="30" src="assets/icons/mongodb.svg"/>
-  <img title="OracleDB"   height="30" src="assets/icons/oracle.svg"/>
-  <img title="PostgreSQL" height="30" src="assets/icons/postgresql.svg"/>
-  <img title="SQL Server" height="30" src="assets/icons/sqlserver.svg"/>
+  <img title="MongoDB"    height="35" src="assets/icons/mongodb.svg"/>
+  <img title="OracleDB"   height="35" src="assets/icons/oracle.svg"/>
+  <img title="PostgreSQL" height="35" src="assets/icons/postgresql.svg"/>
+  <img title="SQL Server" height="35" src="assets/icons/sqlserver.svg"/>
   <!-- Linguagens de Programação -->
   <img width="20"/>
-  <img title="Python" height="30" src="assets/icons/python.svg"/>
-  <img title="Databricks" height="30" src="assets/icons/databricks.svg"/>
+  <img title="Python" height="35" src="assets/icons/python.svg"/>
+  <img title="Databricks" height="35" src="assets/icons/databricks.svg"/>
   <!-- <br> -->
   <br>
   <!-- Sistemas Operacionais -->
   <img width="20"/>
-  <img title="Linux"    height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-  <img title="Windows"  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-  <img title="macOS"    height="30" src="https://cdn.simpleicons.org/apple/B0BEC5"/>
+  <img title="Linux"    height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img title="Windows"  height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  <img title="macOS"    height="35" src="https://cdn.simpleicons.org/apple/B0BEC5"/>
   <!-- Linguagens de Programação -->
   <!-- <img width="20"/> -->
-  <img title="C"      height="30" src="https://skillicons.dev/icons?i=c"/>
-  <img title="C#"     height="30" src="https://skillicons.dev/icons?i=cs"/>
-  <img title="Java"   height="30" src="assets/icons/java.svg"/>
+  <img title="C"      height="35" src="https://skillicons.dev/icons?i=c"/>
+  <img title="C#"     height="35" src="https://skillicons.dev/icons?i=cs"/>
+  <img title="Java"   height="35" src="assets/icons/java.svg"/>
   <!-- Frameworks e Bibliotecas -->
   <!-- <img width="20"/> -->
-  <img title=".NET"       height="30" src="assets/icons/dotnet.svg"/>
-  <img title="Bootstrap"  height="30" src="https://skillicons.dev/icons?i=bootstrap"/>
-  <img title="React"      height="30" src="https://skillicons.dev/icons?i=react"/>
-  <img title="Salesforce" height="30" src="assets/icons/salesforce.svg"/>
+  <img title=".NET"       height="35" src="assets/icons/dotnet.svg"/>
+  <img title="Bootstrap"  height="35" src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img title="React"      height="35" src="https://skillicons.dev/icons?i=react"/>
+  <img title="Salesforce" height="35" src="assets/icons/salesforce.svg"/>
   <!-- Desenvolvimento Web -->
   <!-- <img width="20"/> -->
-  <img title="CSS"        height="30" src="https://skillicons.dev/icons?i=css"/>
-  <img title="HTML"       height="30" src="https://skillicons.dev/icons?i=html"/>
-  <img title="JavaScript" height="30" src="https://skillicons.dev/icons?i=js"/>
+  <img title="CSS"        height="35" src="https://skillicons.dev/icons?i=css"/>
+  <img title="HTML"       height="35" src="https://skillicons.dev/icons?i=html"/>
+  <img title="JavaScript" height="35" src="https://skillicons.dev/icons?i=js"/>
   <!-- Ferramentas de Desenvolvimento -->
   <!-- <img width="20"/> -->
-  <img title="Postman" height="30" src="https://skillicons.dev/icons?i=postman"/>
-  <img title="VS Code" height="30" src="https://skillicons.dev/icons?i=vscode"/>
+  <img title="Postman" height="35" src="https://skillicons.dev/icons?i=postman"/>
+  <img title="VS Code" height="35" src="https://skillicons.dev/icons?i=vscode"/>
   <br>
   <!-- Ferramentas Forense -->
   <img width="20"/>
-  <img title="CipherTrace" height="20" height="30" src="assets/icons/ciphertrace.png">
-  <img title="Kali Linux"  height="20" height="30" src="assets/icons/kali.svg">
-  <img title="Maltego"     height="20" height="30" src="assets/icons/maltego.png">
-  <img title="TATUM"       height="15" height="30" src="assets/icons/tatum.png">
-  <img title="TOR"         height="20" height="30" src="assets/icons/tor.png">
+  <img title="CipherTrace" height="20" height="35" src="assets/icons/ciphertrace.png">
+  <img title="Kali Linux"  height="20" height="35" src="assets/icons/kali.svg">
+  <img title="Maltego"     height="20" height="35" src="assets/icons/maltego.png">
+  <img title="TATUM"       height="15" height="35" src="assets/icons/tatum.png">
+  <img title="TOR"         height="20" height="35" src="assets/icons/tor.png">
 </div>
 
 <hr>
