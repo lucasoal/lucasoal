@@ -78,16 +78,16 @@ End-to-end analytics product combining Bourdieu's Social Field Theory with data 
 
 <img align="left" height="100px" src="https://avatars.githubusercontent.com/u/227693209?s=200&v=4"/>
 
-**Projects - PUC Minas** \
-**Academic** • Projects developed during the bachelor's degree in Computer Science - PUC Minas \
+**PUC - Ciência da Computação | Portfolio** \
+**Academic** 🇧🇷 • Projects developed during the bachelor's degree in Computer Science - PUC Minas \
 🔧 `Blender`, `C/C++`, `CoppeliaSim`, `Java`, `Lisp`, `Lua`, `Packet Tracer`, `Pascal`, `Prolog`, `Python`, `Shell`, `SQL`... \
 📁 [lucas-puc-pc-cc](https://github.com/lucas-puc-pc-cc)
 <br/>
 
 <img align="left" height="100px" src="https://avatars.githubusercontent.com/u/227808068?s=200&v=4"/>
 
-**Projects - IPG Portugal** \
-**Academic** • Projects developed during the bachelor's degree in Computer Science Engineering - IPG \
+**IPG - Engenharia Informática | Portfolio** \
+**Academic** 🇵🇹 • Projects developed during the bachelor's degree in Computer Engineering - IPG \
 🔧 `Bootstrap`, `C`, `C#`, `CSS`, `HTML`, `Haskell`, `Ino`, `JavaScript`, `PL/SQL`, `Salesforce`, `Unity`... \
 📁 [lucas-ipg-ei](https://github.com/lucas-ipg-ei)
 <br/>
