@@ -96,7 +96,7 @@
 <h3>Open Source Projects</h3>
 
 <!--
-<img align="left" height="100px" src="https://github.com/athena-mentorship.png"/>
+<img align="left" height="50px" src="https://github.com/athena-mentorship.png"/>
 
 **Educational Project** \
 **Athena Mentorship** • Mentoring and knowledge sharing within the tech community. \
@@ -105,7 +105,7 @@
 <br/>
 -->
 
-<img align="left" height="100px" src="https://github.com/lucasoal/igmapper/blob/main/assets/igmapper.png"/>
+<img align="left" height="75px" src="https://github.com/lucasoal/igmapper/blob/main/assets/igmapper.png"/>
 
 **Igmapper** \
 **Python Library** • Get public metrics (likes, comments, shares, profiles, posts, reels...) from Instagram. \
@@ -113,7 +113,7 @@
 🖿 [igmapper](https://github.com/lucasoal/igmapper)
 <br/>
 
-<img align="left" height="100px" src="https://github.com/quati-dev/quati/blob/main/assets/quati.png"/>
+<img align="left" height="75px" src="https://github.com/quati-dev/quati/blob/main/assets/quati.png"/>
 
 **Quati** \
 **Python Library** • Providing dynamic data engineering functions to accelerate development. \
