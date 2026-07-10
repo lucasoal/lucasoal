@@ -8,7 +8,7 @@
 </div> -->
 
 <!-- <hr> -->
-<h3>Technologies</h3>
+<!-- <h3>Technologies</h3> -->
 
 <div align="center" style="pointer-events: none;">
   <!-- Nuvem -->
