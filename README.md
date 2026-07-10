@@ -68,28 +68,28 @@
 <img align="left" height="100px" src="https://avatars.githubusercontent.com/u/233206468?s=200&v=4"/>
 
 **E.Analytics - Electoral Campaign Intelligence Platform** \
-🔧 `Python`, `Airflow`, `SQL`, `PostgreSQL`, `PowerBI`, `DAX`, `ETL/ELT`, `CI/CD` \
-📁 [E.Analytics](https://github.com/puc-cc-tcc) \
-End-to-end analytics product combining Bourdieu's Social Field Theory with data engineering. Ingests political content, models symbolic capital flows,  delivers real-time effectiveness metrics via interactive dashboards.
+🛠 `Python`, `Airflow`, `SQL`, `PostgreSQL`, `PowerBI`, `DAX`, `ETL/ELT`, `CI/CD` \
+🖿 [E.Analytics](https://github.com/puc-cc-tcc) \
+🛈 End-to-end analytics product combining Bourdieu's Social Field Theory with data engineering. Ingests political content, models symbolic capital flows,  delivers real-time effectiveness metrics via interactive dashboards.
 <br/>
 
 <hr>
-<h3>Take a L👀K...</h3>
+<h3>Take a Look...</h3>
 
 <img align="left" height="100px" src="https://avatars.githubusercontent.com/u/227693209?s=200&v=4"/>
 
 **PUC - Ciência da Computação | Portfolio** \
 **Academic** 🇧🇷 • Projects developed during the bachelor's degree in Computer Science - PUC Minas \
-🔧 `Blender`, `C/C++`, `CoppeliaSim`, `Java`, `Lisp`, `Lua`, `Packet Tracer`, `Pascal`, `Prolog`, `Python`, `Shell`, `SQL`... \
-📁 [lucas-puc-pc-cc](https://github.com/lucas-puc-pc-cc)
+🛠 `Blender`, `C/C++`, `CoppeliaSim`, `Java`, `Lisp`, `Lua`, `Packet Tracer`, `Pascal`, `Prolog`, `Python`, `Shell`, `SQL`... \
+🖿 [lucas-puc-pc-cc](https://github.com/lucas-puc-pc-cc)
 <br/>
 
 <img align="left" height="100px" src="https://avatars.githubusercontent.com/u/227808068?s=200&v=4"/>
 
 **IPG - Engenharia Informática | Portfolio** \
 **Academic** 🇵🇹 • Projects developed during the bachelor's degree in Computer Engineering - IPG \
-🔧 `Bootstrap`, `C`, `C#`, `CSS`, `HTML`, `Haskell`, `Ino`, `JavaScript`, `PL/SQL`, `Salesforce`, `Unity`... \
-📁 [lucas-ipg-ei](https://github.com/lucas-ipg-ei)
+🛠 `Bootstrap`, `C`, `C#`, `CSS`, `HTML`, `Haskell`, `Ino`, `JavaScript`, `PL/SQL`, `Salesforce`, `Unity`... \
+🖿 [lucas-ipg-ei](https://github.com/lucas-ipg-ei)
 <br/>
 
 <hr>
@@ -100,8 +100,8 @@ End-to-end analytics product combining Bourdieu's Social Field Theory with data 
 
 **Educational Project** \
 **Athena Mentorship** • Mentoring and knowledge sharing within the tech community. \
-🔧 `React`, `React Native`, `Ruby` \
-📁 [athena-mentorship](https://github.com/athena-mentorship)
+🛠 `React`, `React Native`, `Ruby` \
+🖿 [athena-mentorship](https://github.com/athena-mentorship)
 <br/>
 -->
 
@@ -109,14 +109,14 @@ End-to-end analytics product combining Bourdieu's Social Field Theory with data 
 
 **Igmapper** \
 **Python Library** • Get public metrics (likes, comments, shares, profiles, posts, reels...) from Instagram. \
-🔧 `Python`, `Instagram` \
-📁 [igmapper](https://github.com/lucasoal/igmapper)
+🛠 `Python`, `Instagram` \
+🖿 [igmapper](https://github.com/lucasoal/igmapper)
 <br/>
 
 <img align="left" height="100px" src="https://github.com/quati-dev/quati/blob/main/assets/quati.png"/>
 
 **Quati** \
 **Python Library** • Providing dynamic data engineering functions to accelerate development. \
-🔧 `Python`, `PyPI` \
-📁 [quati](https://github.com/quati-dev/quati)
+🛠 `Python`, `PyPI` \
+🖿 [quati](https://github.com/quati-dev/quati)
 <br/>
