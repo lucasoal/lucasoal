@@ -102,8 +102,8 @@ End-to-end analytics product combining Bourdieu's Social Field Theory with data 
 **Athena Mentorship** • Mentoring and knowledge sharing within the tech community. \
 🔧 `React`, `React Native`, `Ruby` \
 📁 [athena-mentorship](https://github.com/athena-mentorship)
--->
 <br/>
+-->
 
 <img align="left" height="100px" src="https://github.com/lucasoal/igmapper/blob/main/assets/igmapper.png"/>
 
