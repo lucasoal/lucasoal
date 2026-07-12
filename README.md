@@ -71,6 +71,7 @@
 
 <div align="center" style="pointer-events: none;">
   <!-- 🗄️ Dados -->
+  <img title="BigQuery"   height="35" src="assets/icons/bigquery.svg"/>
   <img title="Databricks" height="35" src="assets/icons/databricks.svg"/>
   <img title="MongoDB"    height="35" src="assets/icons/mongodb.svg"/>
   <img title="OracleDB"   height="35" src="assets/icons/oracle.svg"/>
@@ -86,6 +87,7 @@
   <img title="DBeaver"       height="35" src="assets/icons/dbeaver.svg"/>
   <img title="Postman"       height="35" src="https://skillicons.dev/icons?i=postman"/>
   <img title="PyCharm"       height="35" src="https://skillicons.dev/icons?i=pycharm"/>
+  <img title="SSMS"          height="35" src="assets/icons/ssms.svg"/>
   <img title="VS Code"       height="35" src="https://skillicons.dev/icons?i=vscode"/>
   <img title="Visual Studio" height="35" src="https://skillicons.dev/icons?i=visualstudio"/>
   <br>
@@ -97,13 +99,13 @@
   <img title="JavaScript" height="35" src="https://skillicons.dev/icons?i=js"/>
   <img title="CSS3"       height="35" src="https://skillicons.dev/icons?i=css"/>
   <img title="HTML5"      height="35" src="https://skillicons.dev/icons?i=html"/>
-  <img width="15"/>
+  <img width="55"/>
   <!-- 🚀 Frameworks e Plataformas -->
   <img title=".NET"       height="35" src="assets/icons/dotnet.svg"/>
   <img title="Salesforce" height="35" src="assets/icons/salesforce.svg"/>
   <img title="React"      height="35" src="https://skillicons.dev/icons?i=react"/>
   <img title="Bootstrap"  height="35" src="https://skillicons.dev/icons?i=bootstrap"/>
-  <img width="15"/>
+  <img width="55"/>
   <!-- 💻 Sistemas Operacionais -->
   <img title="Linux"   height="35" src="assets/icons/linux.svg"/>
   <img title="Windows" height="35" src="assets/icons/windows.svg"/>
