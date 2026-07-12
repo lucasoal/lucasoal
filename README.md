@@ -131,7 +131,7 @@
 <br/>
 
 <hr>
-<h3>Open Source Projects</h3>
+<h3>Open Source</h3>
 
 <!--
 <img align="left" height="50px" src="https://github.com/athena-mentorship.png"/>
