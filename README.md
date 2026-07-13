@@ -15,12 +15,12 @@
   <img title="OracleDB"   height="35" src="assets/icons/oracle.svg"/>
   <img title="PostgreSQL" height="35" src="assets/icons/postgresql.svg"/>
   <img title="SQL Server" height="35" src="assets/icons/sqlserver.svg"/>
-  <img width="35"/>
+  <!-- <img width="35"/> -->
   <!-- ☁️ Cloud -->
   <img title="AWS"   height="35" src="assets/icons/aws.svg"/>
   <img title="Azure" height="35" src="assets/icons/azure.svg"/>
   <img title="GCP"   height="35" src="assets/icons/gcp.svg"/>
-  <img width="35"/>
+  <!-- <img width="35"/> -->
   <!-- 🛠️ Ferramentas de Desenvolvimento -->
   <img title="DBeaver"       height="35" src="assets/icons/dbeaver.svg"/>
   <img title="Postman"       height="35" src="https://skillicons.dev/icons?i=postman"/>
@@ -37,13 +37,13 @@
   <img title="JavaScript" height="35" src="https://skillicons.dev/icons?i=js"/>
   <img title="CSS3"       height="35" src="https://skillicons.dev/icons?i=css"/>
   <img title="HTML5"      height="35" src="https://skillicons.dev/icons?i=html"/>
-  <img width="55"/>
+  <!-- <img width="55"/> -->
   <!-- 🚀 Frameworks e Plataformas -->
   <img title=".NET"       height="35" src="assets/icons/dotnet.svg"/>
   <img title="Salesforce" height="35" src="assets/icons/salesforce.svg"/>
   <img title="React"      height="35" src="https://skillicons.dev/icons?i=react"/>
   <img title="Bootstrap"  height="35" src="https://skillicons.dev/icons?i=bootstrap"/>
-  <img width="55"/>
+  <!-- <img width="55"/> -->
   <!-- 💻 Sistemas Operacionais -->
   <img title="Linux"   height="35" src="assets/icons/linux.svg"/>
   <img title="Windows" height="35" src="assets/icons/windows.svg"/>
