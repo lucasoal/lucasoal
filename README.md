@@ -64,8 +64,8 @@
 
 **E.Analytics - Electoral Campaign Intelligence Platform** \
 🛠 `Python`, `Airflow`, `SQL`, `PostgreSQL`, `PowerBI`, `DAX`, `ETL/ELT`, `CI/CD` \
-🖿 [E.Analytics](https://github.com/puc-cc-tcc) \
-🛈 End-to-end analytics product combining Bourdieu's Social Field Theory with data engineering. Ingests political content, identifies communication styles using AI models, maps symbolic capital, calculates audience adoption, and provides real-time effectiveness metrics via interactive dashboards.
+📁 [E.Analytics](https://github.com/puc-cc-tcc) \
+ℹ️ End-to-end analytics product combining Bourdieu's Social Field Theory with data engineering. Ingests political content, identifies communication styles using AI models, maps symbolic capital, calculates audience adoption, and provides real-time effectiveness metrics via interactive dashboards.
 <br/>
 
 <img align="left" height="75px" src="https://github.com/quati-dev/quati/blob/main/assets/quati.png"/>
@@ -73,7 +73,7 @@
 **Quati** \
 **Python Library** • Data engineering tools to accelerate development. \
 🛠 `Python`, `PyPI` \
-🖿 [quati](https://github.com/quati-dev/quati)
+📁 [quati](https://github.com/quati-dev/quati)
 <br/>
 
 <hr>
@@ -84,7 +84,7 @@
 **Igmapper** \
 **Python Library** • Get metrics (likes, comms, shares, profiles, posts, reels...) from Instagram. \
 🛠 `Python`, `Instagram` \
-🖿 [igmapper](https://github.com/lucasoal/igmapper)
+📁 [igmapper](https://github.com/lucasoal/igmapper)
 <br/>
 
 <hr>
@@ -95,7 +95,7 @@
 **PUC - Ciência da Computação | Portfolio** \
 **Brazil** 🇧🇷 • Projects developed during the bachelor's degree in Computer Science - PUC Minas \
 🛠 `Blender`, `C/C++`, `CoppeliaSim`, `Java`, `Lisp`, `Packet Tracer`, `Pascal`, `Prolog`, `Python`, `Shell`... \
-🖿 [lucas-puc-pc-cc](https://github.com/lucas-puc-pc-cc)
+📁 [lucas-puc-pc-cc](https://github.com/lucas-puc-pc-cc)
 <br/>
 
 <img align="left" height="100px" src="https://avatars.githubusercontent.com/u/227808068?s=200&v=4"/>
@@ -103,5 +103,5 @@
 **IPG - Engenharia Informática | Portfolio** \
 **Portugal** 🇵🇹 • Projects developed during the bachelor's degree in Computer Engineering - IPG \
 🛠 `Bootstrap`, `C/C#`, `CSS`, `HTML`, `Haskell`, `Ino`, `JavaScript`, `PL/SQL`, `Salesforce`, `Unity`... \
-🖿 [lucas-ipg-ei](https://github.com/lucas-ipg-ei)
+📁 [lucas-ipg-ei](https://github.com/lucas-ipg-ei)
 <br/>
