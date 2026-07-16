@@ -12,12 +12,6 @@
 </div>
 <br> <br>
 
-### **Short Projects / Tech Study**
-
-- <img src="assets/icons/asm.svg" height="20px"> **Assembly** (MIPS)
-    - [Assembly Inline](./Assembly/asm-inline/)
-    - [Assembly Mips](./Assembly-Mips/asm-mips/)
-    - [Assembly](./Assembly/)
 - <img src="assets/icons/asm.svg" height="20px"> **Assembly** (MIPS)
     - [Assembly Inline](./Assembly/asm-inline/)
     - [Assembly Mips](./Assembly-Mips/asm-mips/)
@@ -60,7 +54,7 @@
     - [Max and Min Value of an Array](./Lua/array-max-min-value.lua)
     - [Sort Array With BubbleSort Method](./Lua/bubblesort-array.lua)
 - <img src="assets/icons/packttracer.svg" height="20px"> **Packet Tracer** (Cisco)
-    - [LED Communication between 2 MCUs](./PacketTracer/PUC%20-%20IOT%20-%2020250827%20-%20Atividade%202%20-%20Comunicação%20entre%20MCUs.pkt) |
+    - [LED Communication between 2 MCUs](./PacketTracer/PUC%20-%20IOT%20-%2020250827%20-%20Atividade%202%20-%20Comunicação%20entre%20MCUs.pkt)
     - [Motion Sensor Alarm](./PacketTracer/motion-sensor.pkt)
     - [Residencial Automation](./PacketTracer/sound-detector.pkt)
     - [Smoke Sensor Alarm](./PacketTracer/smoke-detector.pkt)
