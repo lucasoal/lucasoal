@@ -73,7 +73,7 @@
 **Quati** \
 **Python Library** • Data engineering tools to accelerate development. \
 🛠 `Python`, `PyPI` \
-📁 [quati](https://github.com/quati-dev/quati)
+🐍 [quati](https://pypi.org/project/quati/)
 <br/>
 
 <hr>
@@ -84,7 +84,7 @@
 **Igmapper** \
 **Python Library** • Get metrics (likes, comms, shares, profiles, posts, reels...) from Instagram. \
 🛠 `Python`, `Instagram` \
-📁 [igmapper](https://github.com/lucasoal/igmapper)
+🐍 [igmapper](https://pypi.org/project/igmapper/)
 <br/>
 
 <hr>
