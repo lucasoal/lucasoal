@@ -68,7 +68,7 @@
 ℹ️ End-to-end analytics product combining Bourdieu's Social Field Theory with data engineering. Ingests political content, identifies communication styles using AI models, maps symbolic capital, calculates audience adoption, and provides real-time effectiveness metrics via interactive dashboards.
 <br/>
 
-<img align="left" height="75px" src="https://github.com/quati-dev/quati/blob/main/assets/quati.png"/>
+<img align="left" height="100px" src="https://github.com/quati-dev/quati/blob/main/assets/Q.svg"/>
 
 **Quati** \
 **Python Library** • Data engineering tools to accelerate development. \
@@ -79,7 +79,7 @@
 <hr>
 <h3>Open Source</h3>
 
-<img align="left" height="75px" src="https://github.com/lucasoal/igmapper/blob/main/assets/igmapper.png"/>
+<img align="left" height="100px" src="https://github.com/lucasoal/igmapper/blob/main/assets/igm.svg"/>
 
 **Igmapper** \
 **Python Library** • Get metrics (likes, comms, shares, profiles, posts, reels...) from Instagram. \
