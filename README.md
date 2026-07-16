@@ -95,7 +95,7 @@
 **PUC - Ciência da Computação | Portfolio** \
 **Brazil** 🇧🇷 • Projects developed during the bachelor's degree in Computer Science - PUC Minas \
 🛠 `Blender`, `C/C++`, `CoppeliaSim`, `Java`, `Lisp`, `Packet Tracer`, `Pascal`, `Prolog`, `Python`, `Shell`... \
-📁 [lucas-puc-pc-cc](https://github.com/lucas-puc-pc-cc)
+📁 [puc-pc-cc](https://github.com/lucasoal/lucasoal/blob/main/puc-pc-cc.md)
 <br/>
 
 <img align="left" height="100px" src="https://avatars.githubusercontent.com/u/227808068?s=200&v=4"/>
@@ -103,5 +103,5 @@
 **IPG - Engenharia Informática | Portfolio** \
 **Portugal** 🇵🇹 • Projects developed during the bachelor's degree in Computer Engineering - IPG \
 🛠 `Bootstrap`, `C/C#`, `CSS`, `HTML`, `Haskell`, `Ino`, `JavaScript`, `PL/SQL`, `Salesforce`, `Unity`... \
-📁 [lucas-ipg-ei](https://github.com/lucas-ipg-ei)
+📁 [ipg-ei](https://github.com/lucasoal/lucasoal/blob/main/ipg-ei.md)
 <br/>
