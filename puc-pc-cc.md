@@ -8,7 +8,6 @@
     <br> <br> <hr>
 
 <h1><b>Projects developed during the bachelor's degree in </b> <i> Computer Science - PUC Minas<i></h1>
-<h3><a href="https://github.com/lucasoal">@lucasoal</a></h3>
 
 </div>
 <br> <br>
