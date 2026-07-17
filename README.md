@@ -95,7 +95,6 @@
 **PUC - Ciência da Computação | Portfolio** \
 **Brazil** 🇧🇷 • Projects developed during the bachelor's degree in Computer Science - PUC Minas \
 🛠 `Blender`, `C/C++`, `CoppeliaSim`, `Java`, `Lisp`, `Packet Tracer`, `Pascal`, `Prolog`, `Python`, `Shell`... \
-<br>
 
 <details> <summary>Click here to expand... </summary>
 
@@ -114,9 +113,7 @@
 - <img src="https://skillicons.dev/icons?i=python" height="20px"> **Python** (Notebooks) [Notebooks](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Python)
 - <img src="https://skillicons.dev/icons?i=bash" height="20px"> **Shell Script** [ARP Mapping](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/network/arp-mapping.sh) | [MTU Identification](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/network/mtu-identification.sh) | [Install Useful & Remove Useless Apps](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/tools/get-useful-rm-useless.sh) | [Study](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/study)
 - <img src="https://skillicons.dev/icons?i=mysql" height="20px"> **MySQL** [Airport Database](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/SQL/Database-Airport) | [Store Database](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/SQL/Database-Store)
-
 </details>
-
 <br>
 
 <img align="left" height="100px" src="https://avatars.githubusercontent.com/u/227808068?s=200&v=4"/>
@@ -124,7 +121,7 @@
 **IPG - Engenharia Informática | Portfolio** \
 **Portugal** 🇵🇹 • Projects developed during the bachelor's degree in Computer Engineering - IPG \
 🛠 `Bootstrap`, `C/C#`, `CSS`, `HTML`, `Haskell`, `Ino`, `JavaScript`, `PL/SQL`, `Salesforce`, `Unity`... \
-<br>
+
 <details> <summary>Click here to expand... </summary>
 
 - <img src="assets/icons/oracle.svg" height="20px"> <img src="https://skillicons.dev/icons?i=haskell" height="20px"> <img src="https://skillicons.dev/icons?i=c" height="20px"> <img src="assets/icons/salesforce.svg" height="20px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="20px"> <img src="https://skillicons.dev/icons?i=js" height="20px"> <img src="https://skillicons.dev/icons?i=ps" height="20px"> <img src="https://skillicons.dev/icons?i=pr" height="20px">  *(PL/SQL, Haskell, C, Salesforce, Bootstrap, JavaScript, Photoshop, Premiere)* 
@@ -133,5 +130,4 @@
 - <img src="https://skillicons.dev/icons?i=html" height="20px"> <img src="https://skillicons.dev/icons?i=css" height="20px"> **HTML, CSS** [Website – Electrician Services](https://github.com/lucasoal-ipg-ei/ipg-website-electrician)
 - <img src="assets/icons/salesforce.svg" height="20px"> **Salesforce** [Autorepair Shop – Salesforce Manage Website](https://github.com/lucasoal-ipg-ei/ipg-autorepair-shop-salesforce)
 - <img src="https://skillicons.dev/icons?i=unity" height="20px"> <img src="https://skillicons.dev/icons?i=cs" height="20px"> **Unity, C#** [2D/3D Game – Cockroaches Invaders](https://github.com/lucasoal-ipg-ei/ipg-cockroaches-invaders-game)
-
 </details>
