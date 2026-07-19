@@ -124,7 +124,7 @@
 
 <details> <summary><b>Show all...</b></summary>
 
-<img src="assets/icons/oracle.svg" height="24px"> <img src="https://skillicons.dev/icons?i=haskell" height="24px"> <img src="https://skillicons.dev/icons?i=c" height="24px"> <img src="assets/icons/salesforce.svg" height="24px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="24px"> <img src="https://skillicons.dev/icons?i=js" height="24px"> <img src="https://skillicons.dev/icons?i=ps" height="24px"> <img src="https://skillicons.dev/icons?i=pr" height="24px"> https://github.com/lucasoal-ipg-ei/ipg-engenharia-informatica \
+<img src="assets/icons/oracle.svg" height="24px"> <img src="https://skillicons.dev/icons?i=haskell" height="24px"> <img src="https://skillicons.dev/icons?i=c" height="24px"> <img src="assets/icons/salesforce.svg" height="24px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="24px"> <img src="https://skillicons.dev/icons?i=js" height="24px"> <img src="https://skillicons.dev/icons?i=ps" height="24px"> <img src="https://skillicons.dev/icons?i=pr" height="24px"> [ipg-engenharia-informatica](https://github.com/lucasoal-ipg-ei/ipg-engenharia-informatica) \
 <img src="https://skillicons.dev/icons?i=bootstrap" height="24px"> **Bootstrap** [Website – Agency](https://github.com/lucasoal-ipg-ei/ipg-website-agency) \
 <img src="https://skillicons.dev/icons?i=html" height="24px"> <img src="https://skillicons.dev/icons?i=css" height="24px"> **HTML, CSS** [Website – Electrician Services](https://github.com/lucasoal-ipg-ei/ipg-website-electrician) \
 <img src="assets/icons/salesforce.svg" height="24px"> **Salesforce** [Autorepair Shop – Salesforce Manage Website](https://github.com/lucasoal-ipg-ei/ipg-autorepair-shop-salesforce) \
