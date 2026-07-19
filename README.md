@@ -9,45 +9,45 @@
 
 <div align="center" style="pointer-events: none;">
   <!-- 🗄️ Dados -->
-  <img title="BigQuery"   height="35" src="assets/icons/bigquery.svg"/>
-  <img title="Databricks" height="35" src="assets/icons/databricks.svg"/>
-  <img title="MongoDB"    height="35" src="assets/icons/mongodb.svg"/>
-  <img title="OracleDB"   height="35" src="assets/icons/oracle.svg"/>
-  <img title="PostgreSQL" height="35" src="assets/icons/postgresql.svg"/>
-  <img title="SQL Server" height="35" src="assets/icons/sqlserver.svg"/>
-  <!-- <img width="35"/> -->
+  <img title="BigQuery"   height="32" src="assets/icons/bigquery.svg"/>
+  <img title="Databricks" height="32" src="assets/icons/databricks.svg"/>
+  <img title="MongoDB"    height="32" src="assets/icons/mongodb.svg"/>
+  <img title="OracleDB"   height="32" src="assets/icons/oracle.svg"/>
+  <img title="PostgreSQL" height="32" src="assets/icons/postgresql.svg"/>
+  <img title="SQL Server" height="32" src="assets/icons/sqlserver.svg"/>
+  <!-- <img width="32"/> -->
   <!-- ☁️ Cloud -->
-  <img title="AWS"   height="35" src="assets/icons/aws.svg"/>
-  <img title="Azure" height="35" src="assets/icons/azure.svg"/>
-  <img title="GCP"   height="35" src="assets/icons/gcp.svg"/>
-  <!-- <img width="35"/> -->
+  <img title="AWS"   height="32" src="assets/icons/aws.svg"/>
+  <img title="Azure" height="32" src="assets/icons/azure.svg"/>
+  <img title="GCP"   height="32" src="assets/icons/gcp.svg"/>
+  <!-- <img width="32"/> -->
   <!-- 🛠️ Ferramentas de Desenvolvimento -->
-  <img title="DBeaver"       height="35" src="assets/icons/dbeaver.svg"/>
-  <img title="Postman"       height="35" src="https://skillicons.dev/icons?i=postman"/>
-  <img title="PyCharm"       height="35" src="https://skillicons.dev/icons?i=pycharm"/>
-  <img title="SSMS"          height="35" src="assets/icons/ssms.svg"/>
-  <img title="VS Code"       height="35" src="https://skillicons.dev/icons?i=vscode"/>
-  <img title="Visual Studio" height="35" src="https://skillicons.dev/icons?i=visualstudio"/>
+  <img title="DBeaver"       height="32" src="assets/icons/dbeaver.svg"/>
+  <img title="Postman"       height="32" src="https://skillicons.dev/icons?i=postman"/>
+  <img title="PyCharm"       height="32" src="https://skillicons.dev/icons?i=pycharm"/>
+  <img title="SSMS"          height="32" src="assets/icons/ssms.svg"/>
+  <img title="VS Code"       height="32" src="https://skillicons.dev/icons?i=vscode"/>
+  <img title="Visual Studio" height="32" src="https://skillicons.dev/icons?i=visualstudio"/>
   <br>
   <!-- 👨‍💻 Linguagens -->
-  <img title="Python"     height="35" src="assets/icons/python.svg"/>
-  <img title="Java"       height="35" src="assets/icons/java.svg"/>
-  <img title="C"          height="35" src="https://skillicons.dev/icons?i=c"/>
-  <img title="C#"         height="35" src="https://skillicons.dev/icons?i=cs"/>
-  <img title="JavaScript" height="35" src="https://skillicons.dev/icons?i=js"/>
-  <img title="CSS3"       height="35" src="https://skillicons.dev/icons?i=css"/>
-  <img title="HTML5"      height="35" src="https://skillicons.dev/icons?i=html"/>
+  <img title="Python"     height="32" src="assets/icons/python.svg"/>
+  <img title="Java"       height="32" src="assets/icons/java.svg"/>
+  <img title="C"          height="32" src="https://skillicons.dev/icons?i=c"/>
+  <img title="C#"         height="32" src="https://skillicons.dev/icons?i=cs"/>
+  <img title="JavaScript" height="32" src="https://skillicons.dev/icons?i=js"/>
+  <img title="CSS3"       height="32" src="https://skillicons.dev/icons?i=css"/>
+  <img title="HTML5"      height="32" src="https://skillicons.dev/icons?i=html"/>
   <!-- <img width="55"/> -->
   <!-- 🚀 Frameworks e Plataformas -->
-  <img title=".NET"       height="35" src="assets/icons/dotnet.svg"/>
-  <img title="Salesforce" height="35" src="assets/icons/salesforce.svg"/>
-  <img title="React"      height="35" src="https://skillicons.dev/icons?i=react"/>
-  <img title="Bootstrap"  height="35" src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img title=".NET"       height="32" src="assets/icons/dotnet.svg"/>
+  <img title="Salesforce" height="32" src="assets/icons/salesforce.svg"/>
+  <img title="React"      height="32" src="https://skillicons.dev/icons?i=react"/>
+  <img title="Bootstrap"  height="32" src="https://skillicons.dev/icons?i=bootstrap"/>
   <!-- <img width="55"/> -->
   <!-- 💻 Sistemas Operacionais -->
-  <img title="Linux"   height="35" src="assets/icons/linux.svg"/>
-  <img title="Windows" height="35" src="assets/icons/windows.svg"/>
-  <img title="macOS"   height="35" src="assets/icons/apple.svg"/>
+  <img title="Linux"   height="32" src="assets/icons/linux.svg"/>
+  <img title="Windows" height="32" src="assets/icons/windows.svg"/>
+  <img title="macOS"   height="32" src="assets/icons/apple.svg"/>
   <br>
   <!-- 🔎 Ferramentas Forenses -->
   <img title="CipherTrace" height="20" src="assets/icons/ciphertrace.svg"/>
@@ -98,21 +98,21 @@
 
 <details> <summary><b>Show all...</b></summary>
 
-<img src="assets/icons/asm.svg" height="20px"> **Assembly** (MIPS) [Assembly Inline](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Assembly/asm-inline) | [Assembly Mips](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Assembly/asm-mips) | [Assembly](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Assembly) \
-<img src="assets/icons/jflap.svg" height="20px"> **Automatons** (JFLAP) [JFLAP Automaton](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/JFLAP-Automatos) | [Stack Automaton](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/JFLAP-Automatos) | [Turing Machine Automaton](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/JFLAP-Automatos) \
-<img src="https://skillicons.dev/icons?i=blender" height="20px"> **Blender** [Displacement](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Blender/Blender-Displacement) | [Normal Maps](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Blender/Blender-NormalMaps) | [Reflection, Lighting and HDR](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Blender/Blender-Macaco) | [Texture, Background and Models](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Blender/Blender-UrsoCanecaBarril) \
-<img src="https://skillicons.dev/icons?i=c" height="20px"> **C** [Encryption and Decryption using Pipes and Water Mark](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C/C-Pipes) | [Parking Control](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C/C-Estacionamentos) | [Study](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C/C-Estudo) \
-<img src="https://skillicons.dev/icons?i=cpp" height="20px"> **C++** [3D Model Name](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C++/Cpp-OpenglFreeglutNome3D) | [Soccer Goal](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C++/Cpp-OpenglFreeglutGol) | [Tic Tac Toe](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C++/Cpp-OpenglFreeglutTicTacToe) \
-<img src="assets/icons/coppeliasim.svg" height="20px"> **CoppeliaSim** [Line Tracer](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/CoppeliaSim/line-tracer-Senna-F1-Interlagos-circuit) | [Niryo One - Object Positioning](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/CoppeliaSim/niryo-one-object-positioning.ttt) | [Pionner - Making Circuit](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/CoppeliaSim/pionner-making-circuit-by-sensor-orientation) | [Scara - Rotation 360](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/CoppeliaSim/scara-rotation-360-and-speed-controller.ttt) | [Serial Bot - Three Joint](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/CoppeliaSim/three-joint-serial-robot) \
-<img src="assets/icons/java.svg" height="20px"> **Java** [ADB Interface](https://github.com/lucasoal/java-ADBInterface) | [Android API About Cities](https://github.com/lucasoal/java-AndroidGeodbAPI) | [Bank Current Account](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Java/bank-current-account) | [Hash Generator](https://github.com/lucasoal/java-GeradorHash) | [Pen OOP](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Java/poo-study-pen) | [Sort Dessert](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Java/sorts-dessert) | [Study OOP](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Java/Java-EstudoPoo) \
-<img src="assets/icons/lisp.svg" height="20px"> **Lisp** [Lisp Review](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Lisp/lisp-review.pdf) \
-<img src="https://skillicons.dev/icons?i=lua" height="20px"> **Lua** [Max and Min Value of an Array](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Lua/array-max-min-value.lua) | [Sort Array With BubbleSort Method](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Lua/bubblesort-array.lua) \
-<img src="assets/icons/packttracer.svg" height="20px"> **Packet Tracer** (Cisco) [LED Communication between 2 MCUs](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/PacketTracer/PUC%20-%20IOT%20-%2020250827%20-%20Atividade%202%20-%20Comunicação%20entre%20MCUs.pkt) | [Motion Sensor Alarm](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/PacketTracer/motion-sensor.pkt) | [Residencial Automation](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/PacketTracer/sound-detector.pkt) | [Smoke Sensor Alarm](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/PacketTracer/smoke-detector.pkt) | [Sound Sensor Alarm](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/PacketTracer/sound-detector.pkt) \
-<img src="assets/icons/pascal.svg" height="20px"> **Pascal** [Car Route Matrix](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Pascal/calculate-route-from-matrix.pas) | [Division by Subtraction](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Pascal/division-by-subtraction.pas) | [Factorial Recursive](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Pascal/factorial-with-recursive-function.pas) | [Guess Value](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Pascal/guess-value.pas) | [Sum Results](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Pascal/sum-results.pas) \
-<img src="assets/icons/prolog.svg" height="20px"> **Prolog** [Calculate Gradebook](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Prolog/calculate-gradebook.pro) | [Count Vowels](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Prolog/count-vowels-from-list.pro) | [List Translation](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Prolog/list-based-translation.pro) | [Print List Elements](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Prolog/print-list-elements.pro) \
-<img src="https://skillicons.dev/icons?i=python" height="20px"> **Python** (Notebooks) [Notebooks](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Python) \
-<img src="https://skillicons.dev/icons?i=bash" height="20px"> **Shell Script** [ARP Mapping](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/network/arp-mapping.sh) | [MTU Identification](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/network/mtu-identification.sh) | [Install Useful & Remove Useless Apps](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/tools/get-useful-rm-useless.sh) | [Study](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/study) \
-<img src="https://skillicons.dev/icons?i=mysql" height="20px"> **MySQL** [Airport Database](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/SQL/Database-Airport) | [Store Database](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/SQL/Database-Store)
+<img src="assets/icons/asm.svg" height="32px"> **Assembly** (MIPS) [Assembly Inline](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Assembly/asm-inline) | [Assembly Mips](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Assembly/asm-mips) | [Assembly](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Assembly) \
+<img src="assets/icons/jflap.svg" height="32px"> **Automatons** (JFLAP) [JFLAP Automaton](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/JFLAP-Automatos) | [Stack Automaton](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/JFLAP-Automatos) | [Turing Machine Automaton](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/JFLAP-Automatos) \
+<img src="https://skillicons.dev/icons?i=blender" height="32px"> **Blender** [Displacement](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Blender/Blender-Displacement) | [Normal Maps](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Blender/Blender-NormalMaps) | [Reflection, Lighting and HDR](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Blender/Blender-Macaco) | [Texture, Background and Models](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Blender/Blender-UrsoCanecaBarril) \
+<img src="https://skillicons.dev/icons?i=c" height="32px"> **C** [Encryption and Decryption using Pipes and Water Mark](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C/C-Pipes) | [Parking Control](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C/C-Estacionamentos) | [Study](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C/C-Estudo) \
+<img src="https://skillicons.dev/icons?i=cpp" height="32px"> **C++** [3D Model Name](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C++/Cpp-OpenglFreeglutNome3D) | [Soccer Goal](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C++/Cpp-OpenglFreeglutGol) | [Tic Tac Toe](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/C++/Cpp-OpenglFreeglutTicTacToe) \
+<img src="assets/icons/coppeliasim.svg" height="32px"> **CoppeliaSim** [Line Tracer](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/CoppeliaSim/line-tracer-Senna-F1-Interlagos-circuit) | [Niryo One - Object Positioning](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/CoppeliaSim/niryo-one-object-positioning.ttt) | [Pionner - Making Circuit](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/CoppeliaSim/pionner-making-circuit-by-sensor-orientation) | [Scara - Rotation 360](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/CoppeliaSim/scara-rotation-360-and-speed-controller.ttt) | [Serial Bot - Three Joint](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/CoppeliaSim/three-joint-serial-robot) \
+<img src="assets/icons/java.svg" height="32px"> **Java** [ADB Interface](https://github.com/lucasoal/java-ADBInterface) | [Android API About Cities](https://github.com/lucasoal/java-AndroidGeodbAPI) | [Bank Current Account](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Java/bank-current-account) | [Hash Generator](https://github.com/lucasoal/java-GeradorHash) | [Pen OOP](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Java/poo-study-pen) | [Sort Dessert](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Java/sorts-dessert) | [Study OOP](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Java/Java-EstudoPoo) \
+<img src="assets/icons/lisp.svg" height="32px"> **Lisp** [Lisp Review](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Lisp/lisp-review.pdf) \
+<img src="https://skillicons.dev/icons?i=lua" height="32px"> **Lua** [Max and Min Value of an Array](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Lua/array-max-min-value.lua) | [Sort Array With BubbleSort Method](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Lua/bubblesort-array.lua) \
+<img src="assets/icons/packttracer.svg" height="32px"> **Packet Tracer** (Cisco) [LED Communication between 2 MCUs](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/PacketTracer/PUC%20-%20IOT%20-%2020250827%20-%20Atividade%202%20-%20Comunicação%20entre%20MCUs.pkt) | [Motion Sensor Alarm](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/PacketTracer/motion-sensor.pkt) | [Residencial Automation](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/PacketTracer/sound-detector.pkt) | [Smoke Sensor Alarm](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/PacketTracer/smoke-detector.pkt) | [Sound Sensor Alarm](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/PacketTracer/sound-detector.pkt) \
+<img src="assets/icons/pascal.svg" height="32px"> **Pascal** [Car Route Matrix](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Pascal/calculate-route-from-matrix.pas) | [Division by Subtraction](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Pascal/division-by-subtraction.pas) | [Factorial Recursive](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Pascal/factorial-with-recursive-function.pas) | [Guess Value](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Pascal/guess-value.pas) | [Sum Results](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Pascal/sum-results.pas) \
+<img src="assets/icons/prolog.svg" height="32px"> **Prolog** [Calculate Gradebook](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Prolog/calculate-gradebook.pro) | [Count Vowels](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Prolog/count-vowels-from-list.pro) | [List Translation](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Prolog/list-based-translation.pro) | [Print List Elements](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Prolog/print-list-elements.pro) \
+<img src="https://skillicons.dev/icons?i=python" height="32px"> **Python** (Notebooks) [Notebooks](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/Python) \
+<img src="https://skillicons.dev/icons?i=bash" height="32px"> **Shell Script** [ARP Mapping](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/network/arp-mapping.sh) | [MTU Identification](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/network/mtu-identification.sh) | [Install Useful & Remove Useless Apps](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/tools/get-useful-rm-useless.sh) | [Study](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/ShellScript/study) \
+<img src="https://skillicons.dev/icons?i=mysql" height="32px"> **MySQL** [Airport Database](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/SQL/Database-Airport) | [Store Database](https://github.com/lucasoal/puc-ciencia-computacao/tree/main/SQL/Database-Store)
 </details>
 <br>
 
@@ -124,9 +124,9 @@
 
 <details> <summary><b>Show all...</b></summary>
 
-<img src="assets/icons/oracle.svg" height="20pzx"> <img src="https://skillicons.dev/icons?i=haskell" height="20px"> <img src="https://skillicons.dev/icons?i=c" height="20px"> <img src="assets/icons/salesforce.svg" height="20px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="20px"> <img src="https://skillicons.dev/icons?i=js" height="20px"> <img src="https://skillicons.dev/icons?i=ps" height="20px"> <img src="https://skillicons.dev/icons?i=pr" height="20px"> https://github.com/lucasoal-ipg-ei/ipg-engenharia-informatica \
-<img src="https://skillicons.dev/icons?i=bootstrap" height="20px"> **Bootstrap** [Website – Agency](https://github.com/lucasoal-ipg-ei/ipg-website-agency) \
-<img src="https://skillicons.dev/icons?i=html" height="20px"> <img src="https://skillicons.dev/icons?i=css" height="20px"> **HTML, CSS** [Website – Electrician Services](https://github.com/lucasoal-ipg-ei/ipg-website-electrician) \
-<img src="assets/icons/salesforce.svg" height="20px"> **Salesforce** [Autorepair Shop – Salesforce Manage Website](https://github.com/lucasoal-ipg-ei/ipg-autorepair-shop-salesforce) \
-<img src="https://skillicons.dev/icons?i=unity" height="20px"> <img src="https://skillicons.dev/icons?i=cs" height="20px"> **Unity, C#** [2D/3D Game – Cockroaches Invaders](https://github.com/lucasoal-ipg-ei/ipg-cockroaches-invaders-game)
+<img src="assets/icons/oracle.svg" height="32px"> <img src="https://skillicons.dev/icons?i=haskell" height="32px"> <img src="https://skillicons.dev/icons?i=c" height="32px"> <img src="assets/icons/salesforce.svg" height="32px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="32px"> <img src="https://skillicons.dev/icons?i=js" height="32px"> <img src="https://skillicons.dev/icons?i=ps" height="32px"> <img src="https://skillicons.dev/icons?i=pr" height="32px"> https://github.com/lucasoal-ipg-ei/ipg-engenharia-informatica \
+<img src="https://skillicons.dev/icons?i=bootstrap" height="32px"> **Bootstrap** [Website – Agency](https://github.com/lucasoal-ipg-ei/ipg-website-agency) \
+<img src="https://skillicons.dev/icons?i=html" height="32px"> <img src="https://skillicons.dev/icons?i=css" height="32px"> **HTML, CSS** [Website – Electrician Services](https://github.com/lucasoal-ipg-ei/ipg-website-electrician) \
+<img src="assets/icons/salesforce.svg" height="32px"> **Salesforce** [Autorepair Shop – Salesforce Manage Website](https://github.com/lucasoal-ipg-ei/ipg-autorepair-shop-salesforce) \
+<img src="https://skillicons.dev/icons?i=unity" height="32px"> <img src="https://skillicons.dev/icons?i=cs" height="32px"> **Unity, C#** [2D/3D Game – Cockroaches Invaders](https://github.com/lucasoal-ipg-ei/ipg-cockroaches-invaders-game)
 </details>
