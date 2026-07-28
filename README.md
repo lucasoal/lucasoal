@@ -71,7 +71,9 @@
 🛠 `Python`, `Airflow`, `SQL`, `PostgreSQL`, `PowerBI`, `DAX`, `ETL/ELT`, `CI/CD` \
 📁 [E.Analytics](https://github.com/puc-cc-tcc) \
 ℹ️ End-to-end analytics product combining Bourdieu's Social Field Theory with data engineering. Ingests political content, identifies communication styles using AI models, maps symbolic capital, calculates audience adoption, and provides real-time effectiveness metrics via interactive dashboards.
-<br/>
+<details><summary>Details</summary><img align="left" height="100%" src="https://raw.githubusercontent.com/puc-cc-tcc/.github/main/assets/banner.png"/></details>
+
+<br>
 
 <img align="left" height="100px" src="https://github.com/quati-dev/quati/blob/main/assets/Q.svg"/>
 
@@ -79,7 +81,7 @@
 **Python Library** • Data engineering tools to accelerate development. \
 🛠 `Python`, `PyPI` \
 🐍 [quati](https://pypi.org/project/quati/)
-<br/>
+<br>
 
 <hr>
 <h3>Open Source</h3>
@@ -90,7 +92,7 @@
 **Python Library** • Get metrics (likes, comms, shares, profiles, posts, reels...) from Instagram. \
 🛠 `Python`, `Instagram` \
 🐍 [igmapper](https://pypi.org/project/igmapper/)
-<br/>
+<br>
 
 <hr>
 <h3>Academic</h3>
