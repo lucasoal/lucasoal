@@ -71,7 +71,7 @@
 🛠 `Python`, `Airflow`, `SQL`, `PostgreSQL`, `PowerBI`, `DAX`, `ETL/ELT`, `CI/CD` \
 📁 [E.Analytics](https://github.com/puc-cc-tcc) \
 ℹ️ End-to-end analytics product combining Bourdieu's Social Field Theory with data engineering. Ingests political content, identifies communication styles using AI models, maps symbolic capital, calculates audience adoption, and provides real-time effectiveness metrics via interactive dashboards.
-<details><summary>Details</summary><img align="left" height="100%" src="https://raw.githubusercontent.com/puc-cc-tcc/.github/main/assets/banner.png"/></details>
+<details><summary>E.Analytics Details</summary><img align="left" height="100%" src="https://raw.githubusercontent.com/puc-cc-tcc/.github/main/assets/banner.png"/></details>
 
 <br>
 
