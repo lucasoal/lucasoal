@@ -29,22 +29,23 @@
   <img title="VS Code"       height="32" src="https://skillicons.dev/icons?i=vscode"/>
   <img title="Visual Studio" height="32" src="https://skillicons.dev/icons?i=visualstudio"/>
   <!-- <img width="55"/> -->
+  
   <br>
+  
   <!-- 👨‍💻 Linguagens -->
   <img title="Python"     height="32" src="assets/icons/python.svg"/>
   <img title="Java"       height="32" src="assets/icons/java.svg"/>
   <img title="C"          height="32" src="https://skillicons.dev/icons?i=c"/>
   <img title="C#"         height="32" src="https://skillicons.dev/icons?i=cs"/>
   <img title="JavaScript" height="32" src="https://skillicons.dev/icons?i=js"/>
-  <!-- <img title="CSS3"       height="32" src="https://skillicons.dev/icons?i=css"/> -->
-  <!-- <img title="HTML5"      height="32" src="https://skillicons.dev/icons?i=html"/> -->
-  <!-- <img width="55"/> -->
+  
   <!-- 🚀 Frameworks e Plataformas -->
   <img title=".NET"       height="32" src="assets/icons/dotnet.svg"/>
   <img title="Salesforce" height="32" src="assets/icons/salesforce.svg"/>
   <img title="React"      height="32" src="https://skillicons.dev/icons?i=react"/>
   <img title="Bootstrap"  height="32" src="https://skillicons.dev/icons?i=bootstrap"/>
   <img width="32"/>
+  
   <!-- 💻 Sistemas Operacionais -->
   <!-- <img title="Linux"   height="32" src="assets/icons/linux.svg"/> -->
   <img title="Ubuntu"  height="32" src="https://skillicons.dev/icons?i=ubuntu"/>
@@ -53,7 +54,9 @@
   <img title="Debian"  height="32" src="https://skillicons.dev/icons?i=debian"/>
   <img title="Windows" height="32" src="assets/icons/windows.svg"/>
   <img title="macOS"   height="32" src="assets/icons/apple.svg"/>
+  
   <br>
+  
   <!-- 🔎 Ferramentas Forenses -->
   <img title="CipherTrace" height="20" src="assets/icons/ciphertrace.svg"/>
   <img title="Kali Linux"  height="20" src="assets/icons/kali.svg"/>
