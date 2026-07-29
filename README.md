@@ -7,7 +7,7 @@
   <a target="_blank" href="https://lucasoal.medium.com"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div> -->
 
-<div align="center" style="pointer-events: none;">
+<p align="center">
   <!-- 🗄️ Dados -->
   <img title="BigQuery"   height="32" src="assets/icons/bigquery.svg"/>
   <img title="Databricks" height="32" src="assets/icons/databricks.svg"/>
@@ -60,7 +60,7 @@
   <img title="Maltego"     height="20" src="assets/icons/maltego.svg"/>
   <img title="Tatum"       height="20" src="assets/icons/tatum.svg"/>
   <img title="Tor"         height="20" src="assets/icons/tor.svg"/>
-</div>
+</p>
 
 
 
