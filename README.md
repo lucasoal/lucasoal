@@ -27,7 +27,7 @@
   <img title="SSMS"          height="32" src="assets/icons/ssms.svg"/>
   <img title="VS Code"       height="32" src="https://skillicons.dev/icons?i=vscode"/>
   <img title="Visual Studio" height="32" src="https://skillicons.dev/icons?i=visualstudio"/>
-  <img width="55"/>
+  <!-- <img width="55"/> -->
   <br>
   <!-- 👨‍💻 Linguagens -->
   <img title="Python"     height="32" src="assets/icons/python.svg"/>
