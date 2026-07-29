@@ -8,7 +8,7 @@
 </div> -->
 
 <div align="center" style="pointer-events: none;">
-  <img width="55%" src="assets/banner.png"/>
+  <img width="70%" src="assets/banner.png"/>
 </div>
 
 <!-- <div align="center" style="pointer-events: none;">
