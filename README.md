@@ -7,15 +7,60 @@
   <a target="_blank" href="https://lucasoal.medium.com"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"></a>
 </div> -->
 
-<!-- 🗄️ Dados -->
-<img title="BigQuery"   height="32" src="assets/icons/bigquery.svg"/> <img title="Databricks" height="32" src="assets/icons/databricks.svg"/> <img title="MongoDB"    height="32" src="assets/icons/mongodb.svg"/> <img title="OracleDB"   height="32" src="assets/icons/oracle.svg"/> <img title="PostgreSQL" height="32" src="assets/icons/postgresql.svg"/> <img title="SQL Server" height="32" src="assets/icons/sqlserver.svg"/> <img title="AWS"   height="32" src="assets/icons/aws.svg"/> <img title="Azure" height="32" src="assets/icons/azure.svg"/> <img title="GCP"   height="32" src="assets/icons/gcp.svg"/> <img title="DBeaver"       height="32" src="assets/icons/dbeaver.svg"/> <img title="Postman"       height="32" src="https://skillicons.dev/icons?i=postman"/> <img title="PyCharm"       height="32" src="https://skillicons.dev/icons?i=pycharm"/> <img title="SSMS"          height="32" src="assets/icons/ssms.svg"/> <img title="VS Code"       height="32" src="https://skillicons.dev/icons?i=vscode"/> <img title="Visual Studio" height="32" src="https://skillicons.dev/icons?i=visualstudio"/>
-<br>
-<img title="Python"     height="32" src="assets/icons/python.svg"/> <img title="Java"       height="32" src="assets/icons/java.svg"/> <img title="C"          height="32" src="https://skillicons.dev/icons?i=c"/> <img title="C#"         height="32" src="https://skillicons.dev/icons?i=cs"/> <img title="JavaScript" height="32" src="https://skillicons.dev/icons?i=js"/> <img title=".NET"       height="32" src="assets/icons/dotnet.svg"/> <img title="Salesforce" height="32" src="assets/icons/salesforce.svg"/> <img title="React"      height="32" src="https://skillicons.dev/icons?i=react"/> <img title="Bootstrap"  height="32" src="https://skillicons.dev/icons?i=bootstrap"/> <img title="Ubuntu"  height="32" src="https://skillicons.dev/icons?i=ubuntu"/> <img title="Min"  height="32" src="https://skillicons.dev/icons?i=mint"/> <img title="Arch"  height="32" src="https://skillicons.dev/icons?i=arch"/> <img title="Debian"  height="32" src="https://skillicons.dev/icons?i=debian"/> <img title="Windows" height="32" src="assets/icons/windows.svg"/> <img title="macOS"   height="32" src="assets/icons/apple.svg"/>
-<br>
-<img title="CipherTrace" height="20" src="assets/icons/ciphertrace.svg"/> <img title="Kali Linux"  height="20" src="assets/icons/kali.svg"/> <img title="Maltego"     height="20" src="assets/icons/maltego.svg"/> <img title="Tatum"       height="20" src="assets/icons/tatum.svg"/> <img title="Tor"         height="20" src="assets/icons/tor.svg"/>
-
-
-
+<div align="center" style="pointer-events: none;">
+  <!-- 🗄️ Dados -->
+  <img title="BigQuery"   height="32" src="assets/icons/bigquery.svg"/>
+  <img title="Databricks" height="32" src="assets/icons/databricks.svg"/>
+  <img title="MongoDB"    height="32" src="assets/icons/mongodb.svg"/>
+  <img title="OracleDB"   height="32" src="assets/icons/oracle.svg"/>
+  <img title="PostgreSQL" height="32" src="assets/icons/postgresql.svg"/>
+  <img title="SQL Server" height="32" src="assets/icons/sqlserver.svg"/>
+  <!-- <img width="32"/> -->
+  <!-- ☁️ Cloud -->
+  <img title="AWS"   height="32" src="assets/icons/aws.svg"/>
+  <img title="Azure" height="32" src="assets/icons/azure.svg"/>
+  <img title="GCP"   height="32" src="assets/icons/gcp.svg"/>
+  <img width="32"/>
+  <!-- 🛠️ Ferramentas de Desenvolvimento -->
+  <img title="DBeaver"       height="32" src="assets/icons/dbeaver.svg"/>
+  <img title="Postman"       height="32" src="https://skillicons.dev/icons?i=postman"/>
+  <img title="PyCharm"       height="32" src="https://skillicons.dev/icons?i=pycharm"/>
+  <img title="SSMS"          height="32" src="assets/icons/ssms.svg"/>
+  <img title="VS Code"       height="32" src="https://skillicons.dev/icons?i=vscode"/>
+  <img title="Visual Studio" height="32" src="https://skillicons.dev/icons?i=visualstudio"/>
+  <!-- <img width="55"/> -->
+  <br>
+  <!-- 👨‍💻 Linguagens -->
+  <img title="Python"     height="32" src="assets/icons/python.svg"/>
+  <img title="Java"       height="32" src="assets/icons/java.svg"/>
+  <img title="C"          height="32" src="https://skillicons.dev/icons?i=c"/>
+  <img title="C#"         height="32" src="https://skillicons.dev/icons?i=cs"/>
+  <img title="JavaScript" height="32" src="https://skillicons.dev/icons?i=js"/>
+  <!-- <img title="CSS3"       height="32" src="https://skillicons.dev/icons?i=css"/> -->
+  <!-- <img title="HTML5"      height="32" src="https://skillicons.dev/icons?i=html"/> -->
+  <!-- <img width="55"/> -->
+  <!-- 🚀 Frameworks e Plataformas -->
+  <img title=".NET"       height="32" src="assets/icons/dotnet.svg"/>
+  <img title="Salesforce" height="32" src="assets/icons/salesforce.svg"/>
+  <img title="React"      height="32" src="https://skillicons.dev/icons?i=react"/>
+  <img title="Bootstrap"  height="32" src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img width="32"/>
+  <!-- 💻 Sistemas Operacionais -->
+  <!-- <img title="Linux"   height="32" src="assets/icons/linux.svg"/> -->
+  <img title="Ubuntu"  height="32" src="https://skillicons.dev/icons?i=ubuntu"/>
+  <img title="Min"  height="32" src="https://skillicons.dev/icons?i=mint"/>
+  <img title="Arch"  height="32" src="https://skillicons.dev/icons?i=arch"/>
+  <img title="Debian"  height="32" src="https://skillicons.dev/icons?i=debian"/>
+  <img title="Windows" height="32" src="assets/icons/windows.svg"/>
+  <img title="macOS"   height="32" src="assets/icons/apple.svg"/>
+  <br>
+  <!-- 🔎 Ferramentas Forenses -->
+  <img title="CipherTrace" height="20" src="assets/icons/ciphertrace.svg"/>
+  <img title="Kali Linux"  height="20" src="assets/icons/kali.svg"/>
+  <img title="Maltego"     height="20" src="assets/icons/maltego.svg"/>
+  <img title="Tatum"       height="20" src="assets/icons/tatum.svg"/>
+  <img title="Tor"         height="20" src="assets/icons/tor.svg"/>
+</div>
 
 <hr>
 <h3>Data Solutions</h3>
