@@ -19,7 +19,7 @@
   <img title="AWS"   height="32" src="assets/icons/aws.svg"/>
   <img title="Azure" height="32" src="assets/icons/azure.svg"/>
   <img title="GCP"   height="32" src="assets/icons/gcp.svg"/>
-  <!-- <img width="32"/> -->
+  <img width="32"/>
   <!-- 🛠️ Ferramentas de Desenvolvimento -->
   <img title="DBeaver"       height="32" src="assets/icons/dbeaver.svg"/>
   <img title="Postman"       height="32" src="https://skillicons.dev/icons?i=postman"/>
@@ -27,8 +27,8 @@
   <img title="SSMS"          height="32" src="assets/icons/ssms.svg"/>
   <img title="VS Code"       height="32" src="https://skillicons.dev/icons?i=vscode"/>
   <img title="Visual Studio" height="32" src="https://skillicons.dev/icons?i=visualstudio"/>
-  <!-- <img width="55"/> -->
-  <!-- <br> -->
+  <img width="55"/>
+  <br>
   <!-- 👨‍💻 Linguagens -->
   <img title="Python"     height="32" src="assets/icons/python.svg"/>
   <img title="Java"       height="32" src="assets/icons/java.svg"/>
@@ -40,7 +40,7 @@
   <img title="Salesforce" height="32" src="assets/icons/salesforce.svg"/>
   <img title="React"      height="32" src="https://skillicons.dev/icons?i=react"/>
   <img title="Bootstrap"  height="32" src="https://skillicons.dev/icons?i=bootstrap"/>
-  <!-- <img width="32"/> -->
+  <img width="32"/>
   <!-- 💻 Sistemas Operacionais -->
   <img title="Ubuntu"  height="32" src="https://skillicons.dev/icons?i=ubuntu"/>
   <img title="Min"  height="32" src="https://skillicons.dev/icons?i=mint"/>
