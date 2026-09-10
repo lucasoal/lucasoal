@@ -1,4 +1,4 @@
-<div align="center" style="pointer-events: none;">
+<div align="left" style="pointer-events: none;">
   <!--
   `AWS` `Azure` `GCP` \
   `Databricks` `Data Factory` \
@@ -10,18 +10,21 @@
   -->
   
   <a href="https://github.com/puc-cc-tcc"> 
+    🔗 E.Analytics
     <img align="center" width="95%" src="https://github.com/puc-cc-tcc/.github/blob/main/assets/banner.png"/> 
   </a>
 
   . . .
   
-  <a href="https://pypi.org/project/igmapper"> 
+  <a href="https://pypi.org/project/igmapper">
+    🔗 Igmapper
     <img align="center" width="95%" src="https://github.com/lucasoal/igmapper/blob/main/assets/banner.png"/>
   </a>
 
   . . .
   
   <a href="https://pypi.org/project/quati"> 
+    🔗 Quati
     <img align="center" width="95%" src="https://github.com/quati-dev/quati/blob/main/assets/banner.png"/>
   </a>
 
