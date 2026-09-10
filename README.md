@@ -1,9 +1,11 @@
 <div align="center" style="pointer-events: none;">
-  <img width="70%" src="assets/banner.png"/>
-
-  <hr>
   
-  <h3>Data Solutions & Open-Source</h3>
+  `AWS` `Azure` `GCP` • `Databricks` `Data Factory` • `PostgreSQL` `SQL Server` `Big Query` `MongoDB` `Oracle` \
+  `Python` `SQL` `Java` `Scala` `C#` `C` `JS` `.NET` \
+  `DBeaver` `SSMS` `Postman` `VS Code` \
+  `Power BI` `Data Studio (Looker)`
+  
+  <hr>
   
   <a href="https://github.com/puc-cc-tcc"> 
     <img align="center" width="90%" src="https://github.com/puc-cc-tcc/.github/blob/main/assets/banner.png"/> 
