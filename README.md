@@ -1,5 +1,3 @@
-Engenheiro de Dados, Data Engineer | Azure, GCP, Databricks | PySpark, Airflow, ETL | Python, SQL | BigQuery, MongoDB, SQL Server | Power BI, Data Studio | CI/CD, Git
-
 <div align="center" style="pointer-events: none;">
   <!--
   `AWS` `Azure` `GCP` \
@@ -8,8 +6,8 @@ Engenheiro de Dados, Data Engineer | Azure, GCP, Databricks | PySpark, Airflow, 
   `Python` `SQL` `Java` `Scala` `C#` `C` `JS` `.NET` \
   `DBeaver` `SSMS` `Postman` `VS Code` \
   `Power BI` `Data Studio (Looker)`
-  -->
   <hr>
+  -->
   
   <a href="https://github.com/puc-cc-tcc"> 
     <img align="center" width="90%" src="https://github.com/puc-cc-tcc/.github/blob/main/assets/banner.png"/> 
