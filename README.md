@@ -1,6 +1,8 @@
 <div align="center" style="pointer-events: none;">
   
-  `AWS` `Azure` `GCP` • `Databricks` `Data Factory` • `PostgreSQL` `SQL Server` `Big Query` `MongoDB` `Oracle` \
+  `AWS` `Azure` `GCP` \
+  `Databricks` `Data Factory` \
+  `PostgreSQL` `SQL Server` `Big Query` `MongoDB` `Oracle` \
   `Python` `SQL` `Java` `Scala` `C#` `C` `JS` `.NET` \
   `DBeaver` `SSMS` `Postman` `VS Code` \
   `Power BI` `Data Studio (Looker)`
