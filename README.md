@@ -1,12 +1,14 @@
+Engenheiro de Dados, Data Engineer | Azure, GCP, Databricks | PySpark, Airflow, ETL | Python, SQL | BigQuery, MongoDB, SQL Server | Power BI, Data Studio | CI/CD, Git
+
 <div align="center" style="pointer-events: none;">
-  
+  <!--
   `AWS` `Azure` `GCP` \
   `Databricks` `Data Factory` \
   `PostgreSQL` `SQL Server` `Big Query` `MongoDB` `Oracle` \
   `Python` `SQL` `Java` `Scala` `C#` `C` `JS` `.NET` \
   `DBeaver` `SSMS` `Postman` `VS Code` \
   `Power BI` `Data Studio (Looker)`
-  
+  -->
   <hr>
   
   <a href="https://github.com/puc-cc-tcc"> 
