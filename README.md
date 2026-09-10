@@ -10,19 +10,19 @@
   -->
   
   <a href="https://github.com/puc-cc-tcc"> 
-    <img align="center" width="90%" src="https://github.com/puc-cc-tcc/.github/blob/main/assets/banner.png"/> 
+    <img align="center" width="70%" src="https://github.com/puc-cc-tcc/.github/blob/main/assets/banner.png"/> 
   </a>
 
   <br> <br>
   
   <a href="https://pypi.org/project/igmapper"> 
-    <img align="center" width="90%" src="https://github.com/lucasoal/igmapper/blob/main/assets/banner.png"/>
+    <img align="center" width="70%" src="https://github.com/lucasoal/igmapper/blob/main/assets/banner.png"/>
   </a>
 
   <br> <br>
   
   <a href="https://pypi.org/project/quati"> 
-    <img align="center" width="90%" src="https://github.com/quati-dev/quati/blob/main/assets/banner.png"/>
+    <img align="center" width="70%" src="https://github.com/quati-dev/quati/blob/main/assets/banner.png"/>
   </a>
 
 </div>
