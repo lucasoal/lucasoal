@@ -13,6 +13,8 @@
     🔗 E.Analytics 2026
     <img align="center" width="95%" src="https://raw.githubusercontent.com/eanalytics26/assets/refs/heads/main/img/eanalytics_banner.png"/> 
   </a>
+
+  . . .
   
   <a href="https://github.com/puc-cc-tcc"> 
     🔗 E.Analytics
