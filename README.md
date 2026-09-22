@@ -11,7 +11,7 @@
   
   <a href="https://github.com/puc-cc-tcc"> 
     🔗 E.Analytics
-    <img align="center" width="95%" src="https://github.com/puc-cc-tcc/.github/blob/main/assets/banner.png"/> 
+    <img align="center" width="95%" src="https://raw.githubusercontent.com/puc-cc-tcc/.github/refs/heads/main/assets/imgs/banner.png"/> 
   </a>
 
   . . .
