@@ -9,6 +9,11 @@
   <hr>
   -->
   
+  <a href="https://eanalytics26.github.io/web"> 
+    🔗 E.Analytics 2026
+    <img align="center" width="95%" src="https://raw.githubusercontent.com/eanalytics26/assets/refs/heads/main/img/eanalytics_banner.png"/> 
+  </a>
+  
   <a href="https://github.com/puc-cc-tcc"> 
     🔗 E.Analytics
     <img align="center" width="95%" src="https://raw.githubusercontent.com/puc-cc-tcc/.github/refs/heads/main/assets/imgs/banner.png"/> 
