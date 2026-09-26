@@ -1,49 +1,40 @@
-<div align="left" style="pointer-events: none;">
-  <!--
-  `AWS` `Azure` `GCP` \
-  `Databricks` `Data Factory` \
-  `PostgreSQL` `SQL Server` `Big Query` `MongoDB` `Oracle` \
-  `Python` `SQL` `Java` `Scala` `C#` `C` `JS` `.NET` \
-  `DBeaver` `SSMS` `Postman` `VS Code` \
-  `Power BI` `Data Studio (Looker)`
-  <hr>
-  -->
-</div>
+<!-- 1ª Linha (Sem Tabela) -->
+<p align="center">
+  <a href="https://eanalytics26.github.io/web" target="_blank">
+    <img src="https://github.com/eanalytics26/assets/blob/main/img/eanalytics_banner.png?raw=true" width="48%" style="max-width: 400px; display: inline-block; vertical-align: middle; margin: 0 5px;">
+  </a>
+  <a href="https://eanalytics26.github.io/web" target="_blank">
+    <img src="https://github.com/eanalytics26/assets/blob/main/gif/1x.gif?raw=true" width="48%" style="max-width: 400px; display: inline-block; vertical-align: middle; margin: 0 5px;">
+  </a>
+  <br>
+  <a href="https://eanalytics26.github.io/web" target="_blank" style="text-decoration: none; color: inherit;">
+    <b>E.Analytics 2026</b>
+  </a>
+</p>
 
+<!-- 2ª e 3ª Linhas (Mantendo a Tabela para o Restante) -->
 <table width="100%" border="0" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; border: none;">
-  <!-- 1 Linha -->
-  <tr>
-    <td align="center" colspan="2" width="100%" valign="top" style="border: none;">
-      <a href="https://eanalytics26.github.io/web" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://raw.githubusercontent.com/eanalytics26/assets/refs/heads/main/img/eanalytics_banner.png" width="49%" style="max-width: 400px; display: inline-block; vertical-align: middle; margin: 0 5px;"> 
-        <img src="https://raw.githubusercontent.com/eanalytics26/assets/refs/heads/main/gif/1x.gif" width="49%" style="max-width: 400px; display: inline-block; vertical-align: middle; margin: 0 5px;">
-        <br>
-        <b>E.Analytics 2026</b>
-      </a>
-    </td>
-  </tr>
-
-  <!-- 2 Linha -->
+  <!-- 2ª Linha -->
   <tr>
     <td align="center" width="50%" valign="top" style="border: none;">
       <a href="https://pypi.org/project/igmappe" target="_blank">
-        <img src="https://raw.githubusercontent.com/lucasoal/igmapper/refs/heads/main/assets/banner.png" width="100%" style="max-width: 400px; display: block;">
+        <img src="https://github.com/lucasoal/igmapper/blob/main/assets/banner.png?raw=true" width="100%" style="max-width: 400px; display: block;">
         <b>Igmapper</b>
       </a>
     </td>
     <td align="center" width="50%" valign="top" style="border: none;">
       <a href="https://pypi.org/project/quati" target="_blank">
-        <img src="https://raw.githubusercontent.com/quati-dev/quati/refs/heads/main/assets/banner.png" width="100%" style="max-width: 400px; display: block;">
+        <img src="https://github.com/quati-dev/quati/blob/main/assets/banner.png?raw=true" width="100%" style="max-width: 400px; display: block;">
         <b>Quati</b>
       </a>
     </td>
   </tr>
 
-  <!-- 3 Linha -->
+  <!-- 3ª Linha -->
   <tr>
     <td align="center" width="50%" valign="top" style="border: none;">
       <a href="https://github.com/puc-cc-tcc" target="_blank">
-        <img src="https://raw.githubusercontent.com/puc-cc-tcc/.github/refs/heads/main/assets/imgs/banner.png" width="100%" style="max-width: 400px; display: block;">
+        <img src="https://github.com/puc-cc-tcc/.github/blob/main/assets/imgs/banner.png?raw=true" width="100%" style="max-width: 400px; display: block;">
         <b>E.Analytics 2025</b>
       </a>
     </td>
