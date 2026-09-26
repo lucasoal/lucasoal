@@ -2,12 +2,8 @@
 <p align="center">
   <a href="https://eanalytics26.github.io/web" target="_blank">
     <img src="https://github.com/eanalytics26/assets/blob/main/img/eanalytics_banner.png?raw=true" width="48%" style="max-width: 400px; display: inline-block; vertical-align: middle; margin: 0 5px;">
-  </a>
-  <a href="https://eanalytics26.github.io/web" target="_blank">
     <img src="https://github.com/eanalytics26/assets/blob/main/gif/1x.gif?raw=true" width="48%" style="max-width: 400px; display: inline-block; vertical-align: middle; margin: 0 5px;">
-  </a>
-  <br>
-  <a href="https://eanalytics26.github.io/web" target="_blank" style="text-decoration: none; color: inherit;">
+    <br>
     <b>E.Analytics 2026</b>
   </a>
 </p>
