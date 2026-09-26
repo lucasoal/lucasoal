@@ -8,34 +8,41 @@
   `Power BI` `Data Studio (Looker)`
   <hr>
   -->
-  
-  <a href="https://eanalytics26.github.io/web"> 
-    🔗 E.Analytics 2026
-    <img align="center" width="95%" src="https://raw.githubusercontent.com/eanalytics26/assets/refs/heads/main/img/eanalytics_banner.png"/> 
-  </a>
-
-  . . .
-  
-  <a href="https://github.com/puc-cc-tcc"> 
-    🔗 E.Analytics
-    <img align="center" width="95%" src="https://raw.githubusercontent.com/puc-cc-tcc/.github/refs/heads/main/assets/imgs/banner.png"/> 
-  </a>
-
-  . . .
-  
-  <a href="https://pypi.org/project/igmapper">
-    🔗 Igmapper
-    <img align="center" width="95%" src="https://github.com/lucasoal/igmapper/blob/main/assets/banner.png"/>
-  </a>
-
-  . . .
-  
-  <a href="https://pypi.org/project/quati"> 
-    🔗 Quati
-    <img align="center" width="95%" src="https://github.com/quati-dev/quati/blob/main/assets/banner.png"/>
-  </a>
-
 </div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; border: none;">
+  <!-- Primeira Linha -->
+  <tr>
+    <td align="center" width="50%" valign="top" style="border: none;">
+      <a href="https://eanalytics26.github.io/web" target="_blank">
+        <img src="https://raw.githubusercontent.com/eanalytics26/assets/refs/heads/main/img/eanalytics_banner.png" alt="Produto 1" width="100%" style="max-width: 400px; display: block;">
+        <b>E.Analytics 2026</b>
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/puc-cc-tcc" target="_blank">
+        <img src="https://raw.githubusercontent.com/puc-cc-tcc/.github/refs/heads/main/assets/imgs/banner.png" alt="Produto 2" width="100%" style="max-width: 400px; display: block;">
+        <b>E.Analytics 2025</b>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Segunda Linha -->
+  <tr>
+    <td align="center" width="50%" valign="top" style="border: none;">
+      <a href="https://pypi.org/project/igmappe" target="_blank">
+        <img src="https://raw.githubusercontent.com/lucasoal/igmapper/refs/heads/main/assets/banner.png" alt="Produto 3" width="100%" style="max-width: 400px; display: block;">
+        <b>Igmapper</b>
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top" style="border: none;">
+      <a href="https://pypi.org/project/quati" target="_blank">
+        <img src="https://raw.githubusercontent.com/quati-dev/quati/refs/heads/main/assets/banner.png" alt="Produto 4" width="100%" style="max-width: 400px; display: block;">
+        <b>Quati</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 <h3>Academic</h3>
