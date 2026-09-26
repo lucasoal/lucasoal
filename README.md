@@ -13,18 +13,18 @@
 </p>
 
 <!-- 2ª e 3ª Linhas (Mantendo a Tabela para o Restante) -->
-<table width="100%" border="0" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; border: none;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse; border: none;">
   <!-- 2ª Linha -->
   <tr>
     <td align="center" width="50%" valign="top" style="border: none;">
       <a href="https://pypi.org/project/igmappe" target="_blank">
-        <img src="https://github.com/lucasoal/igmapper/blob/main/assets/banner.png?raw=true" width="100%" style="max-width: 400px; display: block;">
+        <img src="https://github.com/lucasoal/igmapper/blob/main/assets/banner.png?raw=true">
         <b>Igmapper</b>
       </a>
     </td>
     <td align="center" width="50%" valign="top" style="border: none;">
       <a href="https://pypi.org/project/quati" target="_blank">
-        <img src="https://github.com/quati-dev/quati/blob/main/assets/banner.png?raw=true" width="100%" style="max-width: 400px; display: block;">
+        <img src="https://github.com/quati-dev/quati/blob/main/assets/banner.png?raw=true">
         <b>Quati</b>
       </a>
     </td>
@@ -34,7 +34,7 @@
   <tr>
     <td align="center" width="50%" valign="top" style="border: none;">
       <a href="https://github.com/puc-cc-tcc" target="_blank">
-        <img src="https://github.com/puc-cc-tcc/.github/blob/main/assets/imgs/banner.png?raw=true" width="100%" style="max-width: 400px; display: block;">
+        <img src="https://github.com/puc-cc-tcc/.github/blob/main/assets/imgs/banner.png?raw=true">
         <b>E.Analytics 2025</b>
       </a>
     </td>
