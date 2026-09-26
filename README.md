@@ -11,34 +11,40 @@
 </div>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; border: none;">
-  <!-- Primeira Linha -->
+  <!-- 1 Linha -->
   <tr>
-    <td align="center" width="50%" valign="top" style="border: none;">
-      <a href="https://eanalytics26.github.io/web" target="_blank">
-        <img src="https://raw.githubusercontent.com/eanalytics26/assets/refs/heads/main/img/eanalytics_banner.png" alt="Produto 1" width="100%" style="max-width: 400px; display: block;">
+    <td align="center" colspan="2" width="100%" valign="top" style="border: none;">
+      <a href="https://eanalytics26.github.io/web" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://raw.githubusercontent.com/eanalytics26/assets/refs/heads/main/img/eanalytics_banner.png" width="49%" style="max-width: 400px; display: inline-block; vertical-align: middle; margin: 0 5px;"> 
+        <img src="https://raw.githubusercontent.com/eanalytics26/assets/refs/heads/main/gif/1x.gif" width="49%" style="max-width: 400px; display: inline-block; vertical-align: middle; margin: 0 5px;">
+        <br>
         <b>E.Analytics 2026</b>
-      </a>
-    </td>
-    <td align="center" width="50%" valign="top" style="border: none;">
-      <a href="https://github.com/puc-cc-tcc" target="_blank">
-        <img src="https://raw.githubusercontent.com/puc-cc-tcc/.github/refs/heads/main/assets/imgs/banner.png" alt="Produto 2" width="100%" style="max-width: 400px; display: block;">
-        <b>E.Analytics 2025</b>
       </a>
     </td>
   </tr>
 
-  <!-- Segunda Linha -->
+  <!-- 2 Linha -->
   <tr>
     <td align="center" width="50%" valign="top" style="border: none;">
       <a href="https://pypi.org/project/igmappe" target="_blank">
-        <img src="https://raw.githubusercontent.com/lucasoal/igmapper/refs/heads/main/assets/banner.png" alt="Produto 3" width="100%" style="max-width: 400px; display: block;">
+        <img src="https://raw.githubusercontent.com/lucasoal/igmapper/refs/heads/main/assets/banner.png" width="100%" style="max-width: 400px; display: block;">
         <b>Igmapper</b>
       </a>
     </td>
     <td align="center" width="50%" valign="top" style="border: none;">
       <a href="https://pypi.org/project/quati" target="_blank">
-        <img src="https://raw.githubusercontent.com/quati-dev/quati/refs/heads/main/assets/banner.png" alt="Produto 4" width="100%" style="max-width: 400px; display: block;">
+        <img src="https://raw.githubusercontent.com/quati-dev/quati/refs/heads/main/assets/banner.png" width="100%" style="max-width: 400px; display: block;">
         <b>Quati</b>
+      </a>
+    </td>
+  </tr>
+
+  <!-- 3 Linha -->
+  <tr>
+    <td align="center" width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/puc-cc-tcc" target="_blank">
+        <img src="https://raw.githubusercontent.com/puc-cc-tcc/.github/refs/heads/main/assets/imgs/banner.png" width="100%" style="max-width: 400px; display: block;">
+        <b>E.Analytics 2025</b>
       </a>
     </td>
   </tr>
